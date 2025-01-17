@@ -1,0 +1,442 @@
+[2025-01-17 13:11:34] Log: Start 請再幫我生成一張apple的照片
+[2025-01-17 13:11:38] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:11:38] Log: Success: 請再幫我生成一張apple的照片
+[2025-01-17 13:11:39] Log: Start How to write javaScript function?
+[2025-01-17 13:11:41] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:11:41] Log: Success: How to write javaScript function?
+[2025-01-17 13:11:42] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-17 13:11:44] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:11:44] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-17 13:11:45] Log: Start 請再給我一份包含h2的
+[2025-01-17 13:11:47] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:11:47] Log: Success: 請再給我一份包含h2的
+[2025-01-17 13:11:48] Log: Start Can you provide another example of a poem with a focus on love?
+[2025-01-17 13:11:50] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:11:50] Log: Success: Can you provide another example of a poem with a focus on love?
+[2025-01-17 13:11:51] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-17 13:11:54] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:11:54] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-17 13:11:55] Log: Start JTCG Shop 還有哪些缺點？
+[2025-01-17 13:11:58] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:11:58] Log: Success: JTCG Shop 還有哪些缺點？
+[2025-01-17 13:11:59] Log: Start 
+[2025-01-17 13:12:01] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:12:01] Log: Success: 
+[2025-01-17 13:12:02] Log: Start weurjksdf098werjsdf?
+[2025-01-17 13:12:05] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:12:05] Log: Success: weurjksdf098werjsdf?
+[2025-01-17 13:12:06] Log: Start 請幫我推薦一件商品
+[2025-01-17 13:12:08] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:12:08] Log: Success: 請幫我推薦一件商品
+[2025-01-17 13:12:09] Log: Start 請再幫我生成一張apple的照片
+[2025-01-17 13:12:13] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:12:13] Log: Success: 請再幫我生成一張apple的照片
+[2025-01-17 13:12:14] Log: Start How to write javaScript function?
+[2025-01-17 13:12:18] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:12:18] Log: Success: How to write javaScript function?
+[2025-01-17 13:12:19] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-17 13:12:25] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:12:25] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-17 13:12:26] Log: Start 請再給我一份包含h2的
+[2025-01-17 13:12:30] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:12:30] Log: Success: 請再給我一份包含h2的
+[2025-01-17 13:12:31] Log: Start Can you provide another example of a poem with a focus on love?
+[2025-01-17 13:12:35] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:12:35] Log: Success: Can you provide another example of a poem with a focus on love?
+[2025-01-17 13:12:36] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-17 13:12:39] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:12:39] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-17 13:12:40] Log: Start JTCG Shop 還有哪些缺點？
+[2025-01-17 13:12:48] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:12:48] Log: Success: JTCG Shop 還有哪些缺點？
+[2025-01-17 13:12:49] Log: Start 
+[2025-01-17 13:12:51] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:12:51] Log: Success: 
+[2025-01-17 13:12:52] Log: Start weurjksdf098werjsdf?
+[2025-01-17 13:12:55] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:12:55] Log: Success: weurjksdf098werjsdf?
+[2025-01-17 13:12:56] Log: Start 請幫我推薦一件商品
+[2025-01-17 13:12:58] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:12:58] Log: Success: 請幫我推薦一件商品
+[2025-01-17 13:12:59] Log: Start 請再幫我生成一張apple的照片
+[2025-01-17 13:13:02] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:13:02] Log: Success: 請再幫我生成一張apple的照片
+[2025-01-17 13:13:03] Log: Start How to write javaScript function?
+[2025-01-17 13:13:08] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:13:08] Log: Success: How to write javaScript function?
+[2025-01-17 13:13:09] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-17 13:13:13] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:13:13] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-17 13:13:14] Log: Start 請再給我一份包含h2的
+[2025-01-17 13:13:18] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:13:18] Log: Success: 請再給我一份包含h2的
+[2025-01-17 13:13:19] Log: Start Can you provide another example of a poem with a focus on love?
+[2025-01-17 13:13:23] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:13:23] Log: Success: Can you provide another example of a poem with a focus on love?
+[2025-01-17 13:13:24] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-17 13:13:28] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:13:28] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-17 13:13:29] Log: Start JTCG Shop 還有哪些缺點？
+[2025-01-17 13:13:30] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:13:30] Retrying request to /chat/completions in 0.524000 seconds
+[2025-01-17 13:13:32] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:13:32] Log: Success: JTCG Shop 還有哪些缺點？
+[2025-01-17 13:13:33] Log: Start 
+[2025-01-17 13:13:34] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:13:34] Retrying request to /chat/completions in 2.780000 seconds
+[2025-01-17 13:13:42] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:13:42] Log: Success: 
+[2025-01-17 13:13:43] Log: Start weurjksdf098werjsdf?
+[2025-01-17 13:13:47] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:13:47] Log: Success: weurjksdf098werjsdf?
+[2025-01-17 13:13:48] Log: Start 請幫我推薦一件商品
+[2025-01-17 13:13:48] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:13:48] Retrying request to /chat/completions in 0.824000 seconds
+[2025-01-17 13:13:52] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:13:52] Log: Success: 請幫我推薦一件商品
+[2025-01-17 13:13:53] Log: Start 請再幫我生成一張apple的照片
+[2025-01-17 13:13:53] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:13:53] Retrying request to /chat/completions in 3.230000 seconds
+[2025-01-17 13:14:02] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:14:02] Log: Success: 請再幫我生成一張apple的照片
+[2025-01-17 13:14:03] Log: Start How to write javaScript function?
+[2025-01-17 13:14:03] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:14:03] Retrying request to /chat/completions in 0.398000 seconds
+[2025-01-17 13:14:15] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:14:15] Log: Success: How to write javaScript function?
+[2025-01-17 13:14:16] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-17 13:14:18] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:14:18] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-17 13:14:19] Log: Start 請再給我一份包含h2的
+[2025-01-17 13:14:20] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:14:20] Log: Success: 請再給我一份包含h2的
+[2025-01-17 13:14:21] Log: Start Can you provide another example of a poem with a focus on love?
+[2025-01-17 13:14:21] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:14:21] Retrying request to /chat/completions in 1.336000 seconds
+[2025-01-17 13:14:26] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:14:26] Log: Success: Can you provide another example of a poem with a focus on love?
+[2025-01-17 13:14:27] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-17 13:14:27] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:14:27] Retrying request to /chat/completions in 2.268000 seconds
+[2025-01-17 13:14:31] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:14:31] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-17 13:14:32] Log: Start JTCG Shop 還有哪些缺點？
+[2025-01-17 13:14:32] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:14:32] Retrying request to /chat/completions in 3.356000 seconds
+[2025-01-17 13:14:39] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:14:39] Log: Success: JTCG Shop 還有哪些缺點？
+[2025-01-17 13:14:40] Log: Start 
+[2025-01-17 13:14:40] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:14:40] Retrying request to /chat/completions in 1.724000 seconds
+[2025-01-17 13:14:43] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:14:43] Log: Success: 
+[2025-01-17 13:14:44] Log: Start weurjksdf098werjsdf?
+[2025-01-17 13:14:45] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:14:45] Retrying request to /chat/completions in 3.460000 seconds
+[2025-01-17 13:14:51] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:14:51] Log: Success: weurjksdf098werjsdf?
+[2025-01-17 13:14:52] Log: Start 請幫我推薦一件商品
+[2025-01-17 13:14:52] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:14:52] Retrying request to /chat/completions in 2.128000 seconds
+[2025-01-17 13:14:57] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:14:57] Log: Success: 請幫我推薦一件商品
+[2025-01-17 13:14:58] Log: Start 請再幫我生成一張apple的照片
+[2025-01-17 13:14:58] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:14:58] Retrying request to /chat/completions in 4.288000 seconds
+[2025-01-17 13:15:06] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:15:06] Log: Success: 請再幫我生成一張apple的照片
+[2025-01-17 13:15:07] Log: Start How to write javaScript function?
+[2025-01-17 13:15:08] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:15:08] Retrying request to /chat/completions in 1.366000 seconds
+[2025-01-17 13:15:12] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:15:12] Log: Success: How to write javaScript function?
+[2025-01-17 13:15:13] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-17 13:15:13] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:15:13] Retrying request to /chat/completions in 2.444000 seconds
+[2025-01-17 13:15:18] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:15:18] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-17 13:15:19] Log: Start 請再給我一份包含h2的
+[2025-01-17 13:15:19] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:15:19] Retrying request to /chat/completions in 2.976000 seconds
+[2025-01-17 13:15:23] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:15:23] Log: Success: 請再給我一份包含h2的
+[2025-01-17 13:15:24] Log: Start Can you provide another example of a poem with a focus on love?
+[2025-01-17 13:15:25] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:15:25] Retrying request to /chat/completions in 3.536000 seconds
+[2025-01-17 13:15:32] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:15:32] Log: Success: Can you provide another example of a poem with a focus on love?
+[2025-01-17 13:15:33] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-17 13:15:33] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:15:33] Retrying request to /chat/completions in 1.294000 seconds
+[2025-01-17 13:15:37] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:15:37] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-17 13:15:38] Log: Start JTCG Shop 還有哪些缺點？
+[2025-01-17 13:15:38] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:15:38] Retrying request to /chat/completions in 3.198000 seconds
+[2025-01-17 13:15:44] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:15:44] Log: Success: JTCG Shop 還有哪些缺點？
+[2025-01-17 13:15:45] Log: Start 
+[2025-01-17 13:15:45] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:15:45] Retrying request to /chat/completions in 2.232000 seconds
+[2025-01-17 13:15:50] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:15:50] Log: Success: 
+[2025-01-17 13:15:51] Log: Start weurjksdf098werjsdf?
+[2025-01-17 13:15:52] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:15:52] Retrying request to /chat/completions in 1.860000 seconds
+[2025-01-17 13:15:55] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:15:55] Log: Success: weurjksdf098werjsdf?
+[2025-01-17 13:15:56] Log: Start 請幫我推薦一件商品
+[2025-01-17 13:15:56] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:15:56] Retrying request to /chat/completions in 3.446000 seconds
+[2025-01-17 13:16:02] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:16:02] Log: Success: 請幫我推薦一件商品
+[2025-01-17 13:16:03] Log: Start 請再幫我生成一張apple的照片
+[2025-01-17 13:16:04] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:16:04] Retrying request to /chat/completions in 3.998000 seconds
+[2025-01-17 13:16:11] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:16:11] Log: Success: 請再幫我生成一張apple的照片
+[2025-01-17 13:16:12] Log: Start How to write javaScript function?
+[2025-01-17 13:16:12] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:16:12] Retrying request to /chat/completions in 2.084000 seconds
+[2025-01-17 13:16:18] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:16:18] Log: Success: How to write javaScript function?
+[2025-01-17 13:16:19] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-17 13:16:19] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:16:19] Retrying request to /chat/completions in 1.470000 seconds
+[2025-01-17 13:16:23] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:16:23] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-17 13:16:24] Log: Start 請再給我一份包含h2的
+[2025-01-17 13:16:24] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:16:24] Retrying request to /chat/completions in 2.904000 seconds
+[2025-01-17 13:16:31] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:16:31] Log: Success: 請再給我一份包含h2的
+[2025-01-17 13:16:32] Log: Start Can you provide another example of a poem with a focus on love?
+[2025-01-17 13:16:32] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:16:32] Retrying request to /chat/completions in 1.684000 seconds
+[2025-01-17 13:16:35] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:16:35] Log: Success: Can you provide another example of a poem with a focus on love?
+[2025-01-17 13:16:36] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-17 13:16:36] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:16:36] Retrying request to /chat/completions in 3.574000 seconds
+[2025-01-17 13:16:43] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:16:43] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-17 13:16:44] Log: Start JTCG Shop 還有哪些缺點？
+[2025-01-17 13:16:44] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:16:44] Retrying request to /chat/completions in 2.582000 seconds
+[2025-01-17 13:16:50] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:16:50] Log: Success: JTCG Shop 還有哪些缺點？
+[2025-01-17 13:16:51] Log: Start 
+[2025-01-17 13:16:51] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:16:51] Retrying request to /chat/completions in 1.844000 seconds
+[2025-01-17 13:16:54] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:16:54] Log: Success: 
+[2025-01-17 13:16:55] Log: Start weurjksdf098werjsdf?
+[2025-01-17 13:16:56] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:16:56] Retrying request to /chat/completions in 3.330000 seconds
+[2025-01-17 13:17:01] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:17:01] Log: Success: weurjksdf098werjsdf?
+[2025-01-17 13:17:02] Log: Start 請幫我推薦一件商品
+[2025-01-17 13:17:02] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:17:02] Retrying request to /chat/completions in 3.000000 seconds
+[2025-01-17 13:17:08] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:17:08] Log: Success: 請幫我推薦一件商品
+[2025-01-17 13:17:09] Log: Start 請再幫我生成一張apple的照片
+[2025-01-17 13:17:09] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:17:09] Retrying request to /chat/completions in 4.388000 seconds
+[2025-01-17 13:17:17] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:17:17] Log: Success: 請再幫我生成一張apple的照片
+[2025-01-17 13:17:18] Log: Start How to write javaScript function?
+[2025-01-17 13:17:18] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:17:18] Retrying request to /chat/completions in 1.678000 seconds
+[2025-01-17 13:17:22] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:17:22] Log: Success: How to write javaScript function?
+[2025-01-17 13:17:23] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-17 13:17:23] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:17:23] Retrying request to /chat/completions in 3.280000 seconds
+[2025-01-17 13:17:29] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:17:29] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-17 13:17:30] Log: Start 請再給我一份包含h2的
+[2025-01-17 13:17:30] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:17:30] Retrying request to /chat/completions in 2.718000 seconds
+[2025-01-17 13:17:36] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:17:36] Log: Success: 請再給我一份包含h2的
+[2025-01-17 13:17:37] Log: Start Can you provide another example of a poem with a focus on love?
+[2025-01-17 13:17:37] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:17:37] Retrying request to /chat/completions in 2.334000 seconds
+[2025-01-17 13:17:42] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:17:42] Log: Success: Can you provide another example of a poem with a focus on love?
+[2025-01-17 13:17:43] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-17 13:17:43] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:17:43] Retrying request to /chat/completions in 2.452000 seconds
+[2025-01-17 13:17:47] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:17:47] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-17 13:17:48] Log: Start JTCG Shop 還有哪些缺點？
+[2025-01-17 13:17:49] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:17:49] Retrying request to /chat/completions in 3.356000 seconds
+[2025-01-17 13:17:54] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:17:54] Log: Success: JTCG Shop 還有哪些缺點？
+[2025-01-17 13:17:55] Log: Start 
+[2025-01-17 13:17:55] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:17:55] Retrying request to /chat/completions in 2.714000 seconds
+[2025-01-17 13:18:00] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:18:00] Log: Success: 
+[2025-01-17 13:18:01] Log: Start weurjksdf098werjsdf?
+[2025-01-17 13:18:02] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:18:02] Retrying request to /chat/completions in 2.666000 seconds
+[2025-01-17 13:18:06] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:18:06] Log: Success: weurjksdf098werjsdf?
+[2025-01-17 13:18:07] Log: Start 請幫我推薦一件商品
+[2025-01-17 13:18:07] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:18:07] Retrying request to /chat/completions in 3.586000 seconds
+[2025-01-17 13:18:14] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:18:14] Log: Success: 請幫我推薦一件商品
+[2025-01-17 13:18:15] Log: Start 請再幫我生成一張apple的照片
+[2025-01-17 13:18:15] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:18:15] Retrying request to /chat/completions in 3.390000 seconds
+[2025-01-17 13:18:22] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:18:22] Log: Success: 請再幫我生成一張apple的照片
+[2025-01-17 13:18:23] Log: Start How to write javaScript function?
+[2025-01-17 13:18:24] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:18:24] Retrying request to /chat/completions in 1.528000 seconds
+[2025-01-17 13:18:28] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:18:28] Log: Success: How to write javaScript function?
+[2025-01-17 13:18:29] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-17 13:18:29] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:18:29] Retrying request to /chat/completions in 2.856000 seconds
+[2025-01-17 13:18:35] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:18:35] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-17 13:18:36] Log: Start 請再給我一份包含h2的
+[2025-01-17 13:18:36] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:18:36] Retrying request to /chat/completions in 2.192000 seconds
+[2025-01-17 13:18:40] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:18:40] Log: Success: 請再給我一份包含h2的
+[2025-01-17 13:18:41] Log: Start Can you provide another example of a poem with a focus on love?
+[2025-01-17 13:18:42] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:18:42] Retrying request to /chat/completions in 2.780000 seconds
+[2025-01-17 13:18:48] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:18:48] Log: Success: Can you provide another example of a poem with a focus on love?
+[2025-01-17 13:18:49] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-17 13:18:49] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:18:49] Retrying request to /chat/completions in 1.484000 seconds
+[2025-01-17 13:18:53] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:18:53] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-17 13:18:54] Log: Start JTCG Shop 還有哪些缺點？
+[2025-01-17 13:18:54] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:18:54] Retrying request to /chat/completions in 2.942000 seconds
+[2025-01-17 13:19:02] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:19:02] Log: Success: JTCG Shop 還有哪些缺點？
+[2025-01-17 13:19:03] Log: Start 
+[2025-01-17 13:19:03] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:19:03] Retrying request to /chat/completions in 0.520000 seconds
+[2025-01-17 13:19:05] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:19:05] Log: Success: 
+[2025-01-17 13:19:06] Log: Start weurjksdf098werjsdf?
+[2025-01-17 13:19:07] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:19:07] Retrying request to /chat/completions in 3.086000 seconds
+[2025-01-17 13:19:11] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:19:11] Log: Success: weurjksdf098werjsdf?
+[2025-01-17 13:19:12] Log: Start 請幫我推薦一件商品
+[2025-01-17 13:19:13] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:19:13] Retrying request to /chat/completions in 3.386000 seconds
+[2025-01-17 13:19:18] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:19:18] Log: Success: 請幫我推薦一件商品
+[2025-01-17 13:19:19] Log: Start 請再幫我生成一張apple的照片
+[2025-01-17 13:19:19] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:19:19] Retrying request to /chat/completions in 4.692000 seconds
+[2025-01-17 13:19:28] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:19:28] Log: Success: 請再幫我生成一張apple的照片
+[2025-01-17 13:19:29] Log: Start How to write javaScript function?
+[2025-01-17 13:19:29] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:19:29] Retrying request to /chat/completions in 1.310000 seconds
+[2025-01-17 13:19:33] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:19:33] Log: Success: How to write javaScript function?
+[2025-01-17 13:19:34] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-17 13:19:35] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:19:35] Retrying request to /chat/completions in 2.412000 seconds
+[2025-01-17 13:19:40] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:19:40] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-17 13:19:41] Log: Start 請再給我一份包含h2的
+[2025-01-17 13:19:41] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:19:41] Retrying request to /chat/completions in 2.678000 seconds
+[2025-01-17 13:19:45] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:19:45] Log: Success: 請再給我一份包含h2的
+[2025-01-17 13:19:46] Log: Start Can you provide another example of a poem with a focus on love?
+[2025-01-17 13:19:46] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:19:46] Retrying request to /chat/completions in 3.680000 seconds
+[2025-01-17 13:19:52] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:19:52] Log: Success: Can you provide another example of a poem with a focus on love?
+[2025-01-17 13:19:53] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-17 13:19:54] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:19:54] Retrying request to /chat/completions in 2.806000 seconds
+[2025-01-17 13:19:58] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:19:58] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-17 13:19:59] Log: Start JTCG Shop 還有哪些缺點？
+[2025-01-17 13:20:00] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:20:00] Retrying request to /chat/completions in 3.058000 seconds
+[2025-01-17 13:20:05] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:20:05] Log: Success: JTCG Shop 還有哪些缺點？
+[2025-01-17 13:20:06] Log: Start 
+[2025-01-17 13:20:06] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:20:06] Retrying request to /chat/completions in 3.024000 seconds
+[2025-01-17 13:20:11] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:20:11] Log: Success: 
+[2025-01-17 13:20:12] Log: Start weurjksdf098werjsdf?
+[2025-01-17 13:20:12] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:20:12] Retrying request to /chat/completions in 3.352000 seconds
+[2025-01-17 13:20:17] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:20:17] Log: Success: weurjksdf098werjsdf?
+[2025-01-17 13:20:18] Log: Start 請幫我推薦一件商品
+[2025-01-17 13:20:18] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:20:18] Retrying request to /chat/completions in 3.070000 seconds
+[2025-01-17 13:20:25] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:20:25] Log: Success: 請幫我推薦一件商品
+[2025-01-17 13:20:26] Log: Start 請再幫我生成一張apple的照片
+[2025-01-17 13:20:26] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:20:26] Retrying request to /chat/completions in 2.804000 seconds
+[2025-01-17 13:20:32] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:20:32] Log: Success: 請再幫我生成一張apple的照片
+[2025-01-17 13:20:33] Log: Start How to write javaScript function?
+[2025-01-17 13:20:34] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:20:34] Retrying request to /chat/completions in 2.492000 seconds
+[2025-01-17 13:20:38] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:20:38] Log: Success: How to write javaScript function?
+[2025-01-17 13:20:39] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-17 13:20:40] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:20:40] Retrying request to /chat/completions in 2.832000 seconds
+[2025-01-17 13:20:45] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:20:45] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-17 13:20:46] Log: Start 請再給我一份包含h2的
+[2025-01-17 13:20:46] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:20:46] Retrying request to /chat/completions in 2.734000 seconds
+[2025-01-17 13:20:51] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:20:51] Log: Success: 請再給我一份包含h2的
+[2025-01-17 13:20:52] Log: Start Can you provide another example of a poem with a focus on love?
+[2025-01-17 13:20:52] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:20:52] Retrying request to /chat/completions in 3.078000 seconds
+[2025-01-17 13:20:59] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:20:59] Log: Success: Can you provide another example of a poem with a focus on love?
+[2025-01-17 13:21:00] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-17 13:21:00] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:21:00] Retrying request to /chat/completions in 1.666000 seconds
+[2025-01-17 13:21:04] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:21:04] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-17 13:21:05] Log: Start JTCG Shop 還有哪些缺點？
+[2025-01-17 13:21:06] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:21:06] Retrying request to /chat/completions in 2.446000 seconds
+[2025-01-17 13:21:13] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:21:13] Log: Success: JTCG Shop 還有哪些缺點？
+[2025-01-17 13:21:14] Log: Start 
+[2025-01-17 13:21:14] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:21:14] Retrying request to /chat/completions in 0.446000 seconds
+[2025-01-17 13:21:16] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:21:16] Log: Success: 
+[2025-01-17 13:21:17] Log: Start weurjksdf098werjsdf?
+[2025-01-17 13:21:17] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:21:17] Retrying request to /chat/completions in 3.496000 seconds
+[2025-01-17 13:21:22] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:21:22] Log: Success: weurjksdf098werjsdf?
+[2025-01-17 13:21:23] Log: Start 請幫我推薦一件商品
+[2025-01-17 13:21:23] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-17 13:21:23] Retrying request to /chat/completions in 3.522000 seconds
+[2025-01-17 13:21:30] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-17 13:21:30] Log: Success: 請幫我推薦一件商品
