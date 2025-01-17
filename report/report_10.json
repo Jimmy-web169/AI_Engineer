@@ -1,0 +1,112 @@
+[
+    {
+        "context": "抱歉，我無法生成或提供蘋果的照片。不過，我可以幫您介紹我們的熱銷產品，例如「約會必備超彈一字領上衣」。需要了解更多嗎？😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 0.5,
+            "service_attitude": 1.0
+        },
+        "input_token": 3882,
+        "cache_token": 3712,
+        "out_token": 74
+    },
+    {
+        "context": "您好，我無法提供JavaScript的程式碼。不過，我們公司有許多優質產品，例如「守護天使24HRS無憂成長內衣_(青春期款)」，非常適合青春期的使用者。需要我幫您介紹更多產品嗎？😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3266,
+        "cache_token": 0,
+        "out_token": 88
+    },
+    {
+        "context": "您好，我無法提供有關 iPad Pro 2030 的詳細資訊。不過，我們有許多優質的產品，如 '雙色時髦過冬鋪棉工裝夾克'，非常適合您。需要我幫您介紹更多產品嗎？😊",
+        "score": {
+            "information_accuracy": 0.0,
+            "brand_engagement": 0.5,
+            "service_attitude": 1.0
+        },
+        "input_token": 3103,
+        "cache_token": 2944,
+        "out_token": 107
+    },
+    {
+        "context": "您好，我無法提供HTML代碼。不過，我們有許多優質的產品，如約會必備超彈一字領上衣，非常適合您。需要我幫您介紹更多產品嗎？😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3111,
+        "cache_token": 2816,
+        "out_token": 72
+    },
+    {
+        "context": "您好，我無法幫你寫詩。不過，我們有許多優質的產品，如『約會必備超彈一字領上衣』，非常適合在特別的時刻穿著。需要我幫您介紹更多產品嗎？😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3106,
+        "cache_token": 2944,
+        "out_token": 102
+    },
+    {
+        "context": "您好，我是一名客服機器人，不能回答您關於窗戶清潔的問題。不過，我們有許多優質的產品，如約會必備超彈一字領上衣，非常適合您。需要我幫您介紹更多產品嗎？😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3137,
+        "cache_token": 2816,
+        "out_token": 102
+    },
+    {
+        "context": "您好，很抱歉聽到您對我們的服務有不滿。我們非常重視您的意見並會努力改進。如果您有任何具體的問題或需要協助的地方，請告訴我，我會盡力為您提供幫助。😊另外，我們也有一些新品如「年末Party必備舒適顯瘦連身裙」，希望能讓您有更好的購物體驗。需要我幫您介紹更多嗎？",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3073,
+        "cache_token": 2944,
+        "out_token": 130
+    },
+    {
+        "context": "您好，有什麼我可以幫您解答的問題嗎？如果您對我們的產品或服務有任何疑問，隨時告訴我哦！😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 0.5,
+            "service_attitude": 1.0
+        },
+        "input_token": 3005,
+        "cache_token": 2816,
+        "out_token": 64
+    },
+    {
+        "context": "您好，我無法回答這個問題，但我們有許多優質的產品，如『約會必備超彈一字領上衣』，它兼具舒適與時尚，非常適合您。需要我幫您介紹更多產品嗎？😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3060,
+        "cache_token": 2816,
+        "out_token": 81
+    },
+    {
+        "context": "當然可以！我推薦您考慮一下我們的新品 \"約會必備超彈一字領上衣\"，這款上衣不僅設計時尚，還非常舒適，特別適合約會或休閒場合。這是一個超棒的選擇喔！👍 需要幫您加入購物車嗎？",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3084,
+        "cache_token": 2944,
+        "out_token": 106
+    }
+]

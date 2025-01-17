@@ -1,0 +1,112 @@
+[
+    {
+        "context": "抱歉，我無法幫您生成特定品牌的圖片。不過，我們有許多優質的產品，例如「守護天使24HRS無憂成長內衣 _(青春期款)」。若您有興趣，隨時告訴我哦！😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 0.5,
+            "service_attitude": 1.0
+        },
+        "input_token": 3882,
+        "cache_token": 0,
+        "out_token": 89
+    },
+    {
+        "context": "您好，我無法協助撰寫JavaScript程式碼。不過，我們有許多優質的產品，如『約會必備超彈一字領上衣』，非常適合您。需要我幫您介紹更多產品嗎？😊",
+        "score": {
+            "information_accuracy": 0.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3266,
+        "cache_token": 3072,
+        "out_token": 99
+    },
+    {
+        "context": "您好，我無法提供 iPad Pro 2030 的詳細資訊。不過，我們有許多優質的產品，如「守護天使24HRS無憂成長內衣 (青春期款)」，非常適合您。需要我幫您介紹更多產品嗎？😊",
+        "score": {
+            "information_accuracy": 0.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3103,
+        "cache_token": 2944,
+        "out_token": 87
+    },
+    {
+        "context": "您好，我無法提供HTML格式的內容。不過，我們有許多優質的產品，如約會必備超彈一字領上衣，非常適合您。需要我幫您介紹更多產品嗎？😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3111,
+        "cache_token": 2944,
+        "out_token": 73
+    },
+    {
+        "context": "您好，我無法幫你寫詩。不過，我們有許多優質的產品，如守護天使24HRS無憂成長內衣 _(青春期款)，非常適合您。需要我幫您介紹更多產品嗎？😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3106,
+        "cache_token": 2944,
+        "out_token": 99
+    },
+    {
+        "context": "您好，我是一名客服機器人，不能回答您清潔窗戶的問題。不過，我們有許多優質的產品，如約會必備超彈一字領上衣，非常適合您。需要我幫您介紹更多產品嗎？😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3137,
+        "cache_token": 2816,
+        "out_token": 100
+    },
+    {
+        "context": "您好，對於您的意見，我們非常重視並感謝您的反饋。如果您有任何具體問題或需要協助的地方，請隨時告訴我，我會竭誠為您服務。我們也有許多優質的產品，例如「守護天使24HRS無憂成長內衣 _(青春期款)」，非常受歡迎。如果您有興趣，我可以為您介紹更多產品哦！😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3073,
+        "cache_token": 2944,
+        "out_token": 125
+    },
+    {
+        "context": "您好，有什麼能幫您服務的嗎？如果您有任何關於我們產品或服務的問題，請隨時告訴我哦！😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 0.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3005,
+        "cache_token": 2816,
+        "out_token": 59
+    },
+    {
+        "context": "您好，我無法回答這個問題，但我可以為您介紹我們的新品。最近我們的 \"約會必備超彈一字領上衣\" 非常受歡迎，不僅時尚且舒適，是約會的完美選擇！需要我幫您加入購物車嗎？😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3060,
+        "cache_token": 2816,
+        "out_token": 94
+    },
+    {
+        "context": "當然可以！我推薦您看看我們的新品「約會必備超彈一字領上衣」，這款上衣不僅時尚，而且非常舒適，特別適合約會時穿著。😊 需要幫您加入購物車嗎？",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3084,
+        "cache_token": 2944,
+        "out_token": 85
+    }
+]

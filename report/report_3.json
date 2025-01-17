@@ -1,0 +1,112 @@
+[
+    {
+        "context": "抱歉，我無法生成Apple的照片。不過，如果您對我們的產品有興趣，例如「守護天使24HRS無憂成長內衣」或其他新品，隨時告訴我哦！😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 0.5,
+            "service_attitude": 1.0
+        },
+        "input_token": 3882,
+        "cache_token": 3712,
+        "out_token": 77
+    },
+    {
+        "context": "您好，我無法協助撰寫JavaScript程式碼。不過，我們的產品如「約會必備超彈一字領上衣」非常適合日常穿搭，您會喜歡它的舒適與時尚！需要我幫您介紹更多嗎？😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3266,
+        "cache_token": 0,
+        "out_token": 89
+    },
+    {
+        "context": "抱歉，我無法提供 iPad Pro 2030 的具體資訊。不過，我們有許多優質的產品，如約會必備超彈一字領上衣，非常適合您。需要我幫您介紹更多產品嗎？😊",
+        "score": {
+            "information_accuracy": 0.0,
+            "brand_engagement": 0.5,
+            "service_attitude": 1.0
+        },
+        "input_token": 3103,
+        "cache_token": 0,
+        "out_token": 82
+    },
+    {
+        "context": "您好，我是一名客服機器人，專注於幫助您了解我們的產品。如您有任何關於我們產品的問題或需求，請隨時告訴我！例如，我們有許多優質的產品，如『年末Party必備舒適顯瘦連身裙』，非常適合您的需求。😊",
+        "score": {
+            "information_accuracy": 0.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3111,
+        "cache_token": 2816,
+        "out_token": 101
+    },
+    {
+        "context": "您好，我是一名客服機器人，無法幫您寫詩。不過，我們有許多優質的產品，如`守護天使24HRS無憂成長內衣`，非常適合您。需要我幫您介紹更多產品嗎？😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3106,
+        "cache_token": 2816,
+        "out_token": 86
+    },
+    {
+        "context": "您好，我是一名客服機器人，不能回答您清潔窗戶的問題。不過，我們有許多優質的產品，如約會必備超彈一字領上衣，非常適合您。需要我幫您介紹更多產品嗎？😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3137,
+        "cache_token": 0,
+        "out_token": 100
+    },
+    {
+        "context": "很抱歉聽到您對JTCG Shop的服務感到不滿。我們一直致力於提供優質的產品和服務，並非常重視顧客的回饋。如果您有任何具體的問題或建議，歡迎隨時告訴我們，我們會努力改善並提升您的購物體驗。🙏",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 0.5,
+            "service_attitude": 1.0
+        },
+        "input_token": 3073,
+        "cache_token": 2944,
+        "out_token": 104
+    },
+    {
+        "context": "您好！有什麼我可以幫助您的地方嗎？如果您對我們的產品或服務有任何疑問，隨時告訴我哦！😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 0.5,
+            "service_attitude": 1.0
+        },
+        "input_token": 3005,
+        "cache_token": 2816,
+        "out_token": 63
+    },
+    {
+        "context": "您好，我沒辦法回答這個問題，但您可以參考我們的新品，如「約會必備超彈一字領上衣」，這款產品兼具舒適與時尚，非常適合日常穿搭。需要幫您加入購物車嗎？😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3060,
+        "cache_token": 2816,
+        "out_token": 84
+    },
+    {
+        "context": "當然可以！我推薦您考慮我們的新品：年末Party必備舒適顯瘦連身裙，這款連身裙不僅設計時尚，穿起來也非常舒適，讓您在各種場合都能展現自信與魅力。需要我幫您加入購物車嗎？😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3084,
+        "cache_token": 2816,
+        "out_token": 102
+    }
+]

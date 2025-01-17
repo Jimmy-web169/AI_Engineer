@@ -1,0 +1,112 @@
+[
+    {
+        "context": "抱歉，我無法提供圖片生成服務。不過，如果您對我們的產品有興趣，我可以為您介紹我們的新品，例如『約會必備超彈一字領上衣』，這款商品兼具時尚與舒適哦！😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 0.5,
+            "service_attitude": 1.0
+        },
+        "input_token": 3882,
+        "cache_token": 3712,
+        "out_token": 83
+    },
+    {
+        "context": "您好，我無法幫您撰寫JavaScript程式碼。不過，我們有許多優質的產品，如約會必備超彈一字領上衣，非常適合您。需要我幫您介紹更多產品嗎？😊",
+        "score": {
+            "information_accuracy": 0.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3266,
+        "cache_token": 3072,
+        "out_token": 97
+    },
+    {
+        "context": "抱歉，我無法提供 iPad Pro 2030 的具體螢幕技術資訊。不過，如果您對我們的商品有興趣，我們有許多優質的產品，如「Happy Holiday秋冬拉絨上衣」，非常適合寒冷季節穿著。需要我幫您介紹更多產品嗎？😊",
+        "score": {
+            "information_accuracy": 0.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3103,
+        "cache_token": 2944,
+        "out_token": 99
+    },
+    {
+        "context": "您好，我無法幫您撰寫HTML文件。不過，我們有許多優質的產品，如『約會必備超彈一字領上衣』，非常適合您。需要我幫您介紹更多產品嗎？😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3111,
+        "cache_token": 2944,
+        "out_token": 79
+    },
+    {
+        "context": "您好，我無法幫你寫詩。不過，我們有許多優質的產品，如約會必備超彈一字領上衣，非常適合您。需要我幫您介紹更多產品嗎？😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3106,
+        "cache_token": 2944,
+        "out_token": 92
+    },
+    {
+        "context": "您好，我是一名客服機器人，不能回答您關於窗戶清潔的問題。不過，我們有許多優質的產品，如『年末Party必備舒適顯瘦連身裙』，非常適合您。需要我幫您介紹更多產品嗎？😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3137,
+        "cache_token": 2944,
+        "out_token": 107
+    },
+    {
+        "context": "很抱歉聽到您對 JTCG Shop 的不滿。我們一直致力於提高產品質量和客服體驗。若您有任何具體問題或建議，我們非常願意聆聽並改進。您可以告訴我更多細節，我們會盡快處理。😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 0.5,
+            "service_attitude": 1.0
+        },
+        "input_token": 3073,
+        "cache_token": 2944,
+        "out_token": 98
+    },
+    {
+        "context": "您好！請問有什麼可以幫您解答的呢？如果您對我們的產品有任何疑問或需要協助，隨時告訴我喔！😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 0.5,
+            "service_attitude": 1.0
+        },
+        "input_token": 3005,
+        "cache_token": 2816,
+        "out_token": 68
+    },
+    {
+        "context": "您好，我無法回答這個問題，但我們有許多新品值得您一看，例如「約會必備超彈一字領上衣」，這款商品設計時尚，且穿著舒適。需要幫您加入購物車嗎？😊",
+        "score": {
+            "information_accuracy": 0.5,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3060,
+        "cache_token": 2816,
+        "out_token": 84
+    },
+    {
+        "context": "當然可以！我推薦您看看我們的新品 \"約會必備超彈一字領上衣\"，這款上衣不僅時尚且兼具舒適性，非常適合與女朋友約會時穿著。需要幫您加入購物車嗎？😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3084,
+        "cache_token": 2816,
+        "out_token": 88
+    }
+]

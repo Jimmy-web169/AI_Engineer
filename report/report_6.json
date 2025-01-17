@@ -1,0 +1,112 @@
+[
+    {
+        "context": "抱歉，我無法生成圖片。不過，如果您對我們的產品有興趣，像是「守護天使24HRS無憂成長內衣 _(青春期款)」，可以隨時告訴我，我很樂意為您提供更多資訊！😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 0.5,
+            "service_attitude": 1.0
+        },
+        "input_token": 3882,
+        "cache_token": 3712,
+        "out_token": 87
+    },
+    {
+        "context": "您好，我無法協助撰寫JavaScript程式碼。不過，我們有許多優質的產品，如『Happy Holiday秋冬拉絨上衣』，非常適合這個季節穿著。需要我幫您介紹更多產品嗎？😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3266,
+        "cache_token": 3072,
+        "out_token": 83
+    },
+    {
+        "context": "您好，我無法提供iPad Pro 2030的具體資訊。不過，我們有許多優質的產品，例如「約會必備超彈一字領上衣」，非常適合您。需要我幫您介紹更多產品嗎？😊",
+        "score": {
+            "information_accuracy": 0.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3103,
+        "cache_token": 2816,
+        "out_token": 81
+    },
+    {
+        "context": "您好，我無法幫您編寫HTML文件。不過，我們有許多優質的產品，如「守護天使24HRS無憂成長內衣 _(青春期款)」，非常適合您。需要我幫您介紹更多產品嗎？😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3111,
+        "cache_token": 2944,
+        "out_token": 83
+    },
+    {
+        "context": "您好，我無法幫您寫詩。不過，我們有許多優質的產品，如約會必備超彈一字領上衣，非常適合您。需要我幫您介紹更多產品嗎？😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3106,
+        "cache_token": 2944,
+        "out_token": 92
+    },
+    {
+        "context": "您好，我是一名客服機器人，不能回答您關於窗戶清潔的問題。不過，我們有許多優質的產品，如「冰涼吶喊24HRS無感冰絲內衣_(沁涼冰絲)」，非常適合您。需要我幫您介紹更多產品嗎？😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3137,
+        "cache_token": 2944,
+        "out_token": 114
+    },
+    {
+        "context": "您好，我無法評論JTCG Shop的缺點，不過如果您有遇到任何問題或不滿意的地方，我們非常願意協助您解決。歡迎告訴我您的具體問題或需求，我會盡力提供幫助！如果您對我們的產品有興趣，也可以看看我們的新品，如「守護天使24HRS無憂成長內衣 _(青春期款)」，它兼具舒適與時尚的特色。😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3073,
+        "cache_token": 2944,
+        "out_token": 133
+    },
+    {
+        "context": "您好，有什麼我可以幫助您的嗎？如果您有任何關於我們產品或服務的問題，請隨時告訴我哦！😊",
+        "score": {
+            "information_accuracy": 0.0,
+            "brand_engagement": 0.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3005,
+        "cache_token": 2816,
+        "out_token": 60
+    },
+    {
+        "context": "您好，我不太確定您提到的內容是什麼。不過，我們有許多優質的產品，如「守護天使24HRS無憂成長內衣 _(青春期款)」，非常適合您。需要我幫您介紹更多產品嗎？😊",
+        "score": {
+            "information_accuracy": 0.5,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3060,
+        "cache_token": 2816,
+        "out_token": 89
+    },
+    {
+        "context": "當然可以！我推薦您考慮一下我們的新品——約會必備超彈一字領上衣。這件上衣不僅時尚，還具有極佳的彈性，是約會時的完美選擇喔！需要我幫您加入購物車嗎？😊",
+        "score": {
+            "information_accuracy": 1.0,
+            "brand_engagement": 1.0,
+            "service_attitude": 1.0
+        },
+        "input_token": 3084,
+        "cache_token": 2944,
+        "out_token": 95
+    }
+]
