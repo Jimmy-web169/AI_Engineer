@@ -1,12 +1,13 @@
 from openai.types.chat.chat_completion import ChatCompletion
 import openai
-from system_prompt.system_prompt import system_prompt_1
+from system_prompt.system_prompt import system_prompt_quick_replies
 from chat_history.chat_history import chat_history_test_data
 import os 
-import json
 import logging
-from pydantic import BaseModel
+from pydantic import BaseModel,validator
+from typing import List
 import time
+import json
 from dotenv import load_dotenv
 load_dotenv()
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
@@ -24,12 +25,18 @@ logging.basicConfig(
 
 #透過定義Pydantic模型來描述預設的輸出格式
 class Score(BaseModel):
-    information_accuracy: float
-    brand_engagement : float
-    service_attitude : float
+    query_response_relevance: float
+    query_faq_revelance : float
+    query_should_answer_or_not : float
 class ChatBotOutput(BaseModel):
-    context: str
+    context: List[str]
     score:Score
+        # 限制 context 的長度
+    @validator("context")
+    def validate_context_length(cls, value):
+        if len(value) > 5:
+            raise ValueError("The context list must contain at most 5 items.")
+        return value
 
 def generate_quick_replies(new_user_messages, system_prompt, chat_history=None):
     """
@@ -44,7 +51,7 @@ def generate_quick_replies(new_user_messages, system_prompt, chat_history=None):
     - dict: 回應訊息的Dict,包含context、score、input_token、cache_token和out_token
     """
     #從.env初始化OPEN_AI_KEY
-    openai.api_key = OPENAI_API_KEY
+    openai.api_key = "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"
     
     #設定System Prompt
     messages = [
@@ -71,26 +78,30 @@ def generate_quick_replies(new_user_messages, system_prompt, chat_history=None):
                 temperature=0.7,    
                 response_format=ChatBotOutput,
             )
-            result = {
+            result={
             "context": completion.choices[0].message.parsed.context,  #LLM 的回覆
             "score":{
-            "information_accuracy" :completion.choices[0].message.parsed.score.information_accuracy, #LLM 自評的準確率
-            "brand_engagement" :completion.choices[0].message.parsed.score.brand_engagement,    #LLM 自評的品牌互動
-            "service_attitude" :completion.choices[0].message.parsed.score.service_attitude,    #LLM 自評的服務態度
+            "query_faq_revelance" :completion.choices[0].message.parsed.score.query_faq_revelance, 
+            "query_response_relevance" :completion.choices[0].message.parsed.score.query_response_relevance,  
+            "query_should_answer_or_not" :completion.choices[0].message.parsed.score.query_should_answer_or_not  
             },
             "input_token": completion.usage.prompt_tokens,  #使用者的輸入token
             "cache_token" : completion.usage.prompt_tokens_details.cached_tokens, #使用者的緩存token
             "out_token": completion.usage.completion_tokens #LLM 的回覆token
         }
+            quick_reply = result['context']
+            score = result['score']
+
             #儲存成功聊天紀錄至log.txt
             logging.info(f"Log: Success: {new_user_messages}")
+            logging.info(f"Log: {result}")
         except Exception as e:
             #儲存錯誤聊天紀錄至log.txt
             logging.info(f"Log: Error message {e} on {new_user_messages}")
             iterations += 1
-            result = "很抱歉,我無法理解您的問題,請再試一次。"
+            result = [None,None,None,None,None]
     
-    return result
+    return quick_reply,score
     
 def run_test(scope):
 
@@ -101,9 +112,14 @@ def run_test(scope):
     for tag in range(1,scope+1):
         report = []
         for test_data in chat_history_test_data:
-            result = generate_quick_replies(test_data['faq'],system_prompt_1,test_data['chat_history'])
+            quick_reply,score = generate_quick_replies(test_data['faq'],system_prompt_quick_replies,test_data['chat_history'])
             #設置time.sleep避免同時間過多的請求
             time.sleep(1)
+            result = {
+                "faq": test_data['faq'],
+                "quick_reply": quick_reply,
+                "score": score,
+            }
             report.append(result)
         #將報告寫入report 資料夾
         with open(f"report/report_{tag}.json", "w", encoding="utf-8") as file:
@@ -111,4 +127,4 @@ def run_test(scope):
 
 
 if __name__ == "__main__":
-    run_test("int number of report you want to generate")
+    run_test(10)

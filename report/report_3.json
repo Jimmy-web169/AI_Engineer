@@ -1,112 +1,227 @@
 [
     {
-        "context": "抱歉，我無法生成Apple的照片。不過，如果您對我們的產品有興趣，例如「守護天使24HRS無憂成長內衣」或其他新品，隨時告訴我哦！😊",
+        "faq": "請再幫我生成一張apple的照片",
+        "quick_reply": [
+            "JTCG的品牌故事",
+            "如何聯繫客服團隊",
+            "熱門商品與服務",
+            "最新活動與優惠",
+            "JTCG的退換貨政策"
+        ],
         "score": {
-            "information_accuracy": 1.0,
-            "brand_engagement": 0.5,
-            "service_attitude": 1.0
-        },
-        "input_token": 3882,
-        "cache_token": 3712,
-        "out_token": 77
+            "query_faq_revelance": 0.0,
+            "query_response_relevance": 0.0,
+            "query_should_answer_or_not": 0.0
+        }
     },
     {
-        "context": "您好，我無法協助撰寫JavaScript程式碼。不過，我們的產品如「約會必備超彈一字領上衣」非常適合日常穿搭，您會喜歡它的舒適與時尚！需要我幫您介紹更多嗎？😊",
+        "faq": "How to write javaScript function?",
+        "quick_reply": [
+            "JTCG的品牌故事",
+            "如何聯繫客服團隊",
+            "熱門商品與服務",
+            "最新活動與優惠",
+            "JTCG的退換貨政策"
+        ],
         "score": {
-            "information_accuracy": 1.0,
-            "brand_engagement": 1.0,
-            "service_attitude": 1.0
-        },
-        "input_token": 3266,
-        "cache_token": 0,
-        "out_token": 89
+            "query_faq_revelance": 0.0,
+            "query_response_relevance": 0.0,
+            "query_should_answer_or_not": 0.0
+        }
     },
     {
-        "context": "抱歉，我無法提供 iPad Pro 2030 的具體資訊。不過，我們有許多優質的產品，如約會必備超彈一字領上衣，非常適合您。需要我幫您介紹更多產品嗎？😊",
+        "faq": "那請問ipad pro 2030 是OLED螢幕嗎？",
+        "quick_reply": [
+            "JTCG的品牌故事",
+            "如何聯繫客服團隊",
+            "熱門商品與服務",
+            "最新活動與優惠",
+            "JTCG的退換貨政策"
+        ],
         "score": {
-            "information_accuracy": 0.0,
-            "brand_engagement": 0.5,
-            "service_attitude": 1.0
-        },
-        "input_token": 3103,
-        "cache_token": 0,
-        "out_token": 82
+            "query_faq_revelance": 0.0,
+            "query_response_relevance": 0.0,
+            "query_should_answer_or_not": 0.0
+        }
     },
     {
-        "context": "您好，我是一名客服機器人，專注於幫助您了解我們的產品。如您有任何關於我們產品的問題或需求，請隨時告訴我！例如，我們有許多優質的產品，如『年末Party必備舒適顯瘦連身裙』，非常適合您的需求。😊",
+        "faq": "請再給我一份包含h2的",
+        "quick_reply": [
+            "JTCG的品牌故事",
+            "如何聯繫客服團隊",
+            "熱門商品與服務",
+            "最新活動與優惠",
+            "JTCG的退換貨政策"
+        ],
         "score": {
-            "information_accuracy": 0.0,
-            "brand_engagement": 1.0,
-            "service_attitude": 1.0
-        },
-        "input_token": 3111,
-        "cache_token": 2816,
-        "out_token": 101
+            "query_faq_revelance": 0.0,
+            "query_response_relevance": 0.0,
+            "query_should_answer_or_not": 0.0
+        }
     },
     {
-        "context": "您好，我是一名客服機器人，無法幫您寫詩。不過，我們有許多優質的產品，如`守護天使24HRS無憂成長內衣`，非常適合您。需要我幫您介紹更多產品嗎？😊",
+        "faq": "Can you provide another example of a poem with a focus on love?",
+        "quick_reply": [
+            "JTCG的品牌故事",
+            "如何聯繫客服團隊",
+            "熱門商品與服務",
+            "最新活動與優惠",
+            "JTCG的退換貨政策"
+        ],
         "score": {
-            "information_accuracy": 1.0,
-            "brand_engagement": 1.0,
-            "service_attitude": 1.0
-        },
-        "input_token": 3106,
-        "cache_token": 2816,
-        "out_token": 86
+            "query_faq_revelance": 0.0,
+            "query_response_relevance": 0.0,
+            "query_should_answer_or_not": 0.0
+        }
     },
     {
-        "context": "您好，我是一名客服機器人，不能回答您清潔窗戶的問題。不過，我們有許多優質的產品，如約會必備超彈一字領上衣，非常適合您。需要我幫您介紹更多產品嗎？😊",
+        "faq": "你可以再給我一些針對窗戶清潔的建議嗎？",
+        "quick_reply": [
+            "JTCG的品牌故事",
+            "如何聯繫客服團隊",
+            "熱門商品與服務",
+            "最新活動與優惠",
+            "JTCG的退換貨政策"
+        ],
         "score": {
-            "information_accuracy": 1.0,
-            "brand_engagement": 1.0,
-            "service_attitude": 1.0
-        },
-        "input_token": 3137,
-        "cache_token": 0,
-        "out_token": 100
+            "query_faq_revelance": 0.0,
+            "query_response_relevance": 0.0,
+            "query_should_answer_or_not": 0.0
+        }
     },
     {
-        "context": "很抱歉聽到您對JTCG Shop的服務感到不滿。我們一直致力於提供優質的產品和服務，並非常重視顧客的回饋。如果您有任何具體的問題或建議，歡迎隨時告訴我們，我們會努力改善並提升您的購物體驗。🙏",
+        "faq": "JTCG Shop 還有哪些缺點？",
+        "quick_reply": [
+            "如何聯繫客服團隊",
+            "JTCG的退換貨政策",
+            "熱門商品與服務",
+            "最新活動與優惠",
+            "JTCG的品牌故事"
+        ],
         "score": {
-            "information_accuracy": 1.0,
-            "brand_engagement": 0.5,
-            "service_attitude": 1.0
-        },
-        "input_token": 3073,
-        "cache_token": 2944,
-        "out_token": 104
+            "query_faq_revelance": 0.0,
+            "query_response_relevance": 0.0,
+            "query_should_answer_or_not": 0.0
+        }
     },
     {
-        "context": "您好！有什麼我可以幫助您的地方嗎？如果您對我們的產品或服務有任何疑問，隨時告訴我哦！😊",
+        "faq": "",
+        "quick_reply": [
+            "JTCG的品牌故事",
+            "如何聯繫客服團隊",
+            "熱門商品與服務",
+            "最新活動與優惠",
+            "JTCG的退換貨政策"
+        ],
         "score": {
-            "information_accuracy": 1.0,
-            "brand_engagement": 0.5,
-            "service_attitude": 1.0
-        },
-        "input_token": 3005,
-        "cache_token": 2816,
-        "out_token": 63
+            "query_faq_revelance": 0.0,
+            "query_response_relevance": 0.0,
+            "query_should_answer_or_not": 0.0
+        }
     },
     {
-        "context": "您好，我沒辦法回答這個問題，但您可以參考我們的新品，如「約會必備超彈一字領上衣」，這款產品兼具舒適與時尚，非常適合日常穿搭。需要幫您加入購物車嗎？😊",
+        "faq": "weurjksdf098werjsdf?",
+        "quick_reply": [
+            "JTCG的品牌故事",
+            "如何聯繫客服團隊",
+            "熱門商品與服務",
+            "最新活動與優惠",
+            "JTCG的退換貨政策"
+        ],
         "score": {
-            "information_accuracy": 1.0,
-            "brand_engagement": 1.0,
-            "service_attitude": 1.0
-        },
-        "input_token": 3060,
-        "cache_token": 2816,
-        "out_token": 84
+            "query_faq_revelance": 0.0,
+            "query_response_relevance": 0.0,
+            "query_should_answer_or_not": 0.0
+        }
     },
     {
-        "context": "當然可以！我推薦您考慮我們的新品：年末Party必備舒適顯瘦連身裙，這款連身裙不僅設計時尚，穿起來也非常舒適，讓您在各種場合都能展現自信與魅力。需要我幫您加入購物車嗎？😊",
+        "faq": "請幫我推薦一件商品",
+        "quick_reply": [
+            "守護天使24HRS無憂成長內衣 _(青春期款)",
+            "約會必備超彈一字領上衣",
+            "Happy Holiday秋冬拉絨上衣",
+            "雙色印花斜肩長Tee",
+            "24HRS x LIP INTIMATE CARE專寵自我私密保養禮盒"
+        ],
         "score": {
-            "information_accuracy": 1.0,
-            "brand_engagement": 1.0,
-            "service_attitude": 1.0
-        },
-        "input_token": 3084,
-        "cache_token": 2816,
-        "out_token": 102
+            "query_faq_revelance": 0.0,
+            "query_response_relevance": 1.0,
+            "query_should_answer_or_not": 1.0
+        }
+    },
+    {
+        "faq": "請問這款藍色的短袖T恤還有貨嗎？",
+        "quick_reply": [
+            "如何查詢商品庫存",
+            "如何購買商品",
+            "商品的不同顏色選擇",
+            "商品的尺寸選擇",
+            "商品的材質與保養"
+        ],
+        "score": {
+            "query_faq_revelance": 0.0,
+            "query_response_relevance": 0.5,
+            "query_should_answer_or_not": 1.0
+        }
+    },
+    {
+        "faq": "如果今天下單，什麼時候可以收到商品？",
+        "quick_reply": [
+            "配送時間如何計算？",
+            "如何追蹤訂單狀態？",
+            "可以選擇快遞公司嗎？",
+            "配送的運費是多少？",
+            "如果商品延遲送達該怎麼辦？"
+        ],
+        "score": {
+            "query_faq_revelance": 0.0,
+            "query_response_relevance": 1.0,
+            "query_should_answer_or_not": 1.0
+        }
+    },
+    {
+        "faq": "我購買的商品不滿意，請問如何退貨？",
+        "quick_reply": [
+            "如何申請商品退換貨或退款？",
+            "退換貨需要哪些條件？",
+            "退換貨需要多久時間？",
+            "退換貨是否有運費？",
+            "可以退換哪些商品？"
+        ],
+        "score": {
+            "query_faq_revelance": 1.0,
+            "query_response_relevance": 1.0,
+            "query_should_answer_or_not": 1.0
+        }
+    },
+    {
+        "faq": "可以用信用卡支付嗎？支持分期付款嗎？",
+        "quick_reply": [
+            "信用卡支付的流程是什麼？",
+            "支持的信用卡類型有哪些？",
+            "如何申請分期付款？",
+            "分期付款的條件是什麼？",
+            "分期付款是否有額外費用？"
+        ],
+        "score": {
+            "query_faq_revelance": 0.5,
+            "query_response_relevance": 1.0,
+            "query_should_answer_or_not": 1.0
+        }
+    },
+    {
+        "faq": "現在有什麼優惠活動嗎？可以介紹一下嗎？",
+        "quick_reply": [
+            "最新活動與優惠",
+            "如何取得優惠券",
+            "熱門商品與服務",
+            "如何成為會員",
+            "JTCG的品牌故事"
+        ],
+        "score": {
+            "query_faq_revelance": 0.5,
+            "query_response_relevance": 1.0,
+            "query_should_answer_or_not": 1.0
+        }
     }
 ]
