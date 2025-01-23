@@ -1,854 +1,662 @@
-[2025-01-20 23:33:33] Log: Start 請再幫我生成一張apple的照片
-[2025-01-20 23:33:37] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:33:37] Log: Success: 請再幫我生成一張apple的照片
-[2025-01-20 23:33:37] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 4121, 'cache_token': 3968, 'out_token': 65}
-[2025-01-20 23:33:38] Log: Start How to write javaScript function?
-[2025-01-20 23:33:40] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:33:40] Log: Success: How to write javaScript function?
-[2025-01-20 23:33:40] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3505, 'cache_token': 3328, 'out_token': 65}
-[2025-01-20 23:33:41] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
-[2025-01-20 23:33:44] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:33:44] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
-[2025-01-20 23:33:44] Log: {'context': ['如何查詢產品規格', 'iPad Pro 2030的螢幕技術', 'OLED螢幕的優勢', 'iPad Pro系列的歷史', '如何選擇適合的平板電腦'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3342, 'cache_token': 3200, 'out_token': 111}
-[2025-01-20 23:33:45] Log: Start 請再給我一份包含h2的
-[2025-01-20 23:33:48] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:33:48] Log: Success: 請再給我一份包含h2的
-[2025-01-20 23:33:48] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3350, 'cache_token': 3200, 'out_token': 94}
-[2025-01-20 23:33:49] Log: Start Can you provide another example of a poem with a focus on love?
-[2025-01-20 23:33:51] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:33:51] Log: Success: Can you provide another example of a poem with a focus on love?
-[2025-01-20 23:33:51] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3345, 'cache_token': 3072, 'out_token': 64}
-[2025-01-20 23:33:52] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
-[2025-01-20 23:33:52] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:33:52] Retrying request to /chat/completions in 2.428000 seconds
-[2025-01-20 23:33:57] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:33:57] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
-[2025-01-20 23:33:57] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3376, 'cache_token': 3200, 'out_token': 65}
-[2025-01-20 23:33:58] Log: Start JTCG Shop 還有哪些缺點？
-[2025-01-20 23:33:58] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:33:58] Retrying request to /chat/completions in 3.800000 seconds
-[2025-01-20 23:34:04] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:34:04] Log: Success: JTCG Shop 還有哪些缺點？
-[2025-01-20 23:34:04] Log: {'context': ['如何聯繫客服團隊', 'JTCG的退換貨政策', '熱門商品與服務', '最新活動與優惠', 'JTCG的品牌故事'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3312, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:34:05] Log: Start 
-[2025-01-20 23:34:05] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:34:05] Retrying request to /chat/completions in 3.314000 seconds
-[2025-01-20 23:34:10] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:34:10] Log: Success: 
-[2025-01-20 23:34:10] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3244, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:34:11] Log: Start weurjksdf098werjsdf?
-[2025-01-20 23:34:12] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:34:12] Retrying request to /chat/completions in 3.188000 seconds
-[2025-01-20 23:34:17] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:34:17] Log: Success: weurjksdf098werjsdf?
-[2025-01-20 23:34:17] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3299, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:34:18] Log: Start 請幫我推薦一件商品
-[2025-01-20 23:34:18] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:34:18] Retrying request to /chat/completions in 3.816000 seconds
-[2025-01-20 23:34:24] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:34:24] Log: Success: 請幫我推薦一件商品
-[2025-01-20 23:34:24] Log: {'context': ['守護天使24HRS無憂成長內衣 _(青春期款)', '約會必備超彈一字領上衣', 'Happy Holiday秋冬拉絨上衣', '雙色印花斜肩長Tee', '年末Party必備舒適顯瘦連身裙'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3323, 'cache_token': 3200, 'out_token': 102}
-[2025-01-20 23:34:25] Log: Start 請問這款藍色的短袖T恤還有貨嗎？
-[2025-01-20 23:34:25] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:34:25] Retrying request to /chat/completions in 3.310000 seconds
-[2025-01-20 23:34:30] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:34:30] Log: Success: 請問這款藍色的短袖T恤還有貨嗎？
-[2025-01-20 23:34:30] Log: {'context': ['如何查詢商品庫存', '如何購買商品', '商品缺貨時的處理方式', '如何加入購物車', '查看商品詳細資訊的方法'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.5, 'query_should_answer_or_not': 1.0}, 'input_token': 3236, 'cache_token': 3072, 'out_token': 66}
-[2025-01-20 23:34:31] Log: Start 如果今天下單，什麼時候可以收到商品？
-[2025-01-20 23:34:31] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:34:31] Retrying request to /chat/completions in 3.628000 seconds
-[2025-01-20 23:34:37] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:34:37] Log: Success: 如果今天下單，什麼時候可以收到商品？
-[2025-01-20 23:34:37] Log: {'context': ['配送時間如何計算？', '有哪些配送方式可選？', '如何查詢訂單狀態？', '可以加急配送嗎？', '商品配送是否有運費？'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 72}
-[2025-01-20 23:34:38] Log: Start 我購買的商品不滿意，請問如何退貨？
-[2025-01-20 23:34:38] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:34:38] Retrying request to /chat/completions in 3.442000 seconds
-[2025-01-20 23:34:45] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:34:45] Log: Success: 我購買的商品不滿意，請問如何退貨？
-[2025-01-20 23:34:45] Log: {'context': ['退換貨需要哪些條件？', '如何申請退換貨？', '退換貨需要多久時間？', '退換貨是否有運費？', '可以退換哪些商品？'], 'score': {'query_faq_revelance': 1.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3233, 'cache_token': 3072, 'out_token': 72}
-[2025-01-20 23:34:46] Log: Start 可以用信用卡支付嗎？支持分期付款嗎？
-[2025-01-20 23:34:46] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:34:46] Retrying request to /chat/completions in 2.270000 seconds
-[2025-01-20 23:34:50] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:34:50] Log: Success: 可以用信用卡支付嗎？支持分期付款嗎？
-[2025-01-20 23:34:50] Log: {'context': ['信用卡支付的流程是什麼？', '支持的信用卡種類有哪些？', '分期付款的最低金額是多少？', '如何申請分期付款？', '分期付款的手續費是多少？'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 79}
-[2025-01-20 23:34:51] Log: Start 現在有什麼優惠活動嗎？可以介紹一下嗎？
-[2025-01-20 23:34:52] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:34:52] Retrying request to /chat/completions in 3.256000 seconds
-[2025-01-20 23:34:57] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:34:57] Log: Success: 現在有什麼優惠活動嗎？可以介紹一下嗎？
-[2025-01-20 23:34:57] Log: {'context': ['最新活動與優惠', '如何取得優惠券', '熱門商品與服務', '如何成為會員', 'JTCG的品牌故事'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 58}
-[2025-01-20 23:34:58] Log: Start 請再幫我生成一張apple的照片
-[2025-01-20 23:34:58] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:34:58] Retrying request to /chat/completions in 5.242000 seconds
-[2025-01-20 23:35:07] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:35:07] Log: Success: 請再幫我生成一張apple的照片
-[2025-01-20 23:35:07] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 4121, 'cache_token': 3968, 'out_token': 65}
-[2025-01-20 23:35:08] Log: Start How to write javaScript function?
-[2025-01-20 23:35:08] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:35:08] Retrying request to /chat/completions in 2.186000 seconds
-[2025-01-20 23:35:12] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:35:12] Log: Success: How to write javaScript function?
-[2025-01-20 23:35:12] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3505, 'cache_token': 3328, 'out_token': 65}
-[2025-01-20 23:35:13] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
-[2025-01-20 23:35:14] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:35:14] Retrying request to /chat/completions in 3.572000 seconds
-[2025-01-20 23:35:20] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:35:20] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
-[2025-01-20 23:35:20] Log: {'context': ['iPad Pro 2030的螢幕技術詳情', 'iPad Pro 2030的顯示規格', 'iPad Pro 2030的螢幕材質', 'iPad Pro系列螢幕技術演變', 'iPad Pro的顯示屏特性'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3342, 'cache_token': 3200, 'out_token': 98}
-[2025-01-20 23:35:21] Log: Start 請再給我一份包含h2的
-[2025-01-20 23:35:21] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:35:21] Retrying request to /chat/completions in 3.114000 seconds
-[2025-01-20 23:35:26] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:35:26] Log: Success: 請再給我一份包含h2的
-[2025-01-20 23:35:26] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3350, 'cache_token': 3200, 'out_token': 65}
-[2025-01-20 23:35:27] Log: Start Can you provide another example of a poem with a focus on love?
-[2025-01-20 23:35:27] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:35:27] Retrying request to /chat/completions in 3.574000 seconds
-[2025-01-20 23:35:33] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:35:33] Log: Success: Can you provide another example of a poem with a focus on love?
-[2025-01-20 23:35:33] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3345, 'cache_token': 3200, 'out_token': 65}
-[2025-01-20 23:35:34] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
-[2025-01-20 23:35:34] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:35:34] Retrying request to /chat/completions in 3.522000 seconds
-[2025-01-20 23:35:41] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:35:41] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
-[2025-01-20 23:35:41] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3376, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:35:42] Log: Start JTCG Shop 還有哪些缺點？
-[2025-01-20 23:35:42] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:35:42] Retrying request to /chat/completions in 2.620000 seconds
-[2025-01-20 23:35:47] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:35:47] Log: Success: JTCG Shop 還有哪些缺點？
-[2025-01-20 23:35:47] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3312, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:35:48] Log: Start 
-[2025-01-20 23:35:48] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:35:48] Retrying request to /chat/completions in 3.004000 seconds
-[2025-01-20 23:35:53] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:35:53] Log: Success: 
-[2025-01-20 23:35:53] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3244, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:35:54] Log: Start weurjksdf098werjsdf?
-[2025-01-20 23:35:54] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:35:54] Retrying request to /chat/completions in 3.622000 seconds
-[2025-01-20 23:36:00] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:36:00] Log: Success: weurjksdf098werjsdf?
-[2025-01-20 23:36:00] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3299, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:36:01] Log: Start 請幫我推薦一件商品
-[2025-01-20 23:36:01] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:36:01] Retrying request to /chat/completions in 3.628000 seconds
-[2025-01-20 23:36:07] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:36:07] Log: Success: 請幫我推薦一件商品
-[2025-01-20 23:36:07] Log: {'context': ['守護天使24HRS無憂成長內衣 _(青春期款)', '約會必備超彈一字領上衣', 'Happy Holiday秋冬拉絨上衣', '雙色印花斜肩長Tee', '年末Party必備舒適顯瘦連身裙'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3323, 'cache_token': 3200, 'out_token': 128}
-[2025-01-20 23:36:08] Log: Start 請問這款藍色的短袖T恤還有貨嗎？
-[2025-01-20 23:36:09] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:36:09] Retrying request to /chat/completions in 2.762000 seconds
-[2025-01-20 23:36:13] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:36:13] Log: Success: 請問這款藍色的短袖T恤還有貨嗎？
-[2025-01-20 23:36:13] Log: {'context': ['如何查詢商品庫存？', '如何購買商品？', '商品售罄後如何處理？', '商品的材質和尺寸？', '熱門商品推薦'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.5, 'query_should_answer_or_not': 1.0}, 'input_token': 3236, 'cache_token': 3072, 'out_token': 68}
-[2025-01-20 23:36:14] Log: Start 如果今天下單，什麼時候可以收到商品？
-[2025-01-20 23:36:14] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:36:14] Retrying request to /chat/completions in 3.588000 seconds
-[2025-01-20 23:36:20] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:36:20] Log: Success: 如果今天下單，什麼時候可以收到商品？
-[2025-01-20 23:36:20] Log: {'context': ['配送時間怎麼計算？', '商品有哪些配送方式？', '如何查詢訂單狀態？', '如何聯繫客服查詢配送問題？', '快速配送的額外費用是多少？'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 78}
-[2025-01-20 23:36:21] Log: Start 我購買的商品不滿意，請問如何退貨？
-[2025-01-20 23:36:21] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:36:21] Retrying request to /chat/completions in 3.228000 seconds
-[2025-01-20 23:36:27] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:36:27] Log: Success: 我購買的商品不滿意，請問如何退貨？
-[2025-01-20 23:36:27] Log: {'context': ['如何申請商品退換貨或退款？', '退換貨需要哪些條件？', '退換貨需要多久時間？', '退換貨是否有運費？', '可以退換哪些商品？'], 'score': {'query_faq_revelance': 1.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3233, 'cache_token': 3072, 'out_token': 75}
-[2025-01-20 23:36:28] Log: Start 可以用信用卡支付嗎？支持分期付款嗎？
-[2025-01-20 23:36:28] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:36:28] Retrying request to /chat/completions in 3.214000 seconds
-[2025-01-20 23:36:35] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:36:35] Log: Success: 可以用信用卡支付嗎？支持分期付款嗎？
-[2025-01-20 23:36:35] Log: {'context': ['可以使用哪些支付方式？', '如何申請信用卡分期付款？', '信用卡支付是否有手續費？', '哪些商品可以分期付款？', '分期付款的利息如何計算？'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 79}
-[2025-01-20 23:36:36] Log: Start 現在有什麼優惠活動嗎？可以介紹一下嗎？
-[2025-01-20 23:36:36] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:36:36] Retrying request to /chat/completions in 1.913000 seconds
-[2025-01-20 23:36:40] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:36:40] Log: Success: 現在有什麼優惠活動嗎？可以介紹一下嗎？
-[2025-01-20 23:36:40] Log: {'context': ['最新活動與優惠', '如何取得優惠券', '熱門商品與服務', '如何成為會員', 'JTCG的品牌故事'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 58}
-[2025-01-20 23:36:41] Log: Start 請再幫我生成一張apple的照片
-[2025-01-20 23:36:41] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:36:41] Retrying request to /chat/completions in 4.972000 seconds
-[2025-01-20 23:36:51] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:36:51] Log: Success: 請再幫我生成一張apple的照片
-[2025-01-20 23:36:51] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 4121, 'cache_token': 3968, 'out_token': 65}
-[2025-01-20 23:36:52] Log: Start How to write javaScript function?
-[2025-01-20 23:36:52] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:36:52] Retrying request to /chat/completions in 1.162000 seconds
-[2025-01-20 23:36:55] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:36:55] Log: Success: How to write javaScript function?
-[2025-01-20 23:36:55] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3505, 'cache_token': 3328, 'out_token': 65}
-[2025-01-20 23:36:56] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
-[2025-01-20 23:36:56] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:36:56] Retrying request to /chat/completions in 3.702000 seconds
-[2025-01-20 23:37:02] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:37:02] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
-[2025-01-20 23:37:02] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3342, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:37:03] Log: Start 請再給我一份包含h2的
-[2025-01-20 23:37:04] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:37:04] Retrying request to /chat/completions in 3.372000 seconds
-[2025-01-20 23:37:09] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:37:10] Log: Success: 請再給我一份包含h2的
-[2025-01-20 23:37:10] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3350, 'cache_token': 3200, 'out_token': 94}
-[2025-01-20 23:37:11] Log: Start Can you provide another example of a poem with a focus on love?
-[2025-01-20 23:37:11] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:37:11] Retrying request to /chat/completions in 3.068000 seconds
-[2025-01-20 23:37:16] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:37:16] Log: Success: Can you provide another example of a poem with a focus on love?
-[2025-01-20 23:37:16] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3345, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:37:17] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
-[2025-01-20 23:37:17] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:37:17] Retrying request to /chat/completions in 3.682000 seconds
-[2025-01-20 23:37:23] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:37:23] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
-[2025-01-20 23:37:23] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3376, 'cache_token': 3200, 'out_token': 94}
-[2025-01-20 23:37:24] Log: Start JTCG Shop 還有哪些缺點？
-[2025-01-20 23:37:24] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:37:24] Retrying request to /chat/completions in 3.020000 seconds
-[2025-01-20 23:37:29] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:37:29] Log: Success: JTCG Shop 還有哪些缺點？
-[2025-01-20 23:37:29] Log: {'context': ['如何聯繫客服團隊', 'JTCG的退換貨政策', '熱門商品與服務', '最新活動與優惠', 'JTCG的品牌故事'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3312, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:37:30] Log: Start 
-[2025-01-20 23:37:31] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:37:31] Retrying request to /chat/completions in 3.504000 seconds
-[2025-01-20 23:37:36] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:37:36] Log: Success: 
-[2025-01-20 23:37:36] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3244, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:37:37] Log: Start weurjksdf098werjsdf?
-[2025-01-20 23:37:37] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:37:37] Retrying request to /chat/completions in 3.558000 seconds
-[2025-01-20 23:37:43] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:37:43] Log: Success: weurjksdf098werjsdf?
-[2025-01-20 23:37:43] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3299, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:37:44] Log: Start 請幫我推薦一件商品
-[2025-01-20 23:37:44] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:37:44] Retrying request to /chat/completions in 3.524000 seconds
-[2025-01-20 23:37:51] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:37:51] Log: Success: 請幫我推薦一件商品
-[2025-01-20 23:37:51] Log: {'context': ['守護天使24HRS無憂成長內衣 _(青春期款)', '約會必備超彈一字領上衣', 'Happy Holiday秋冬拉絨上衣', '雙色印花斜肩長Tee', '24HRS x LIP INTIMATE CARE專寵自我私密保養禮盒'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3323, 'cache_token': 3200, 'out_token': 135}
-[2025-01-20 23:37:52] Log: Start 請問這款藍色的短袖T恤還有貨嗎？
-[2025-01-20 23:37:52] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:37:52] Retrying request to /chat/completions in 2.002000 seconds
-[2025-01-20 23:37:56] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:37:56] Log: Success: 請問這款藍色的短袖T恤還有貨嗎？
-[2025-01-20 23:37:56] Log: {'context': ['如何查詢商品庫存', '如何購買商品', '商品的不同顏色選擇', '商品的尺寸選擇', '商品的材質與保養'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.5, 'query_should_answer_or_not': 1.0}, 'input_token': 3236, 'cache_token': 3072, 'out_token': 70}
-[2025-01-20 23:37:57] Log: Start 如果今天下單，什麼時候可以收到商品？
-[2025-01-20 23:37:58] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:37:58] Retrying request to /chat/completions in 3.586000 seconds
-[2025-01-20 23:38:06] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:38:06] Log: Success: 如果今天下單，什麼時候可以收到商品？
-[2025-01-20 23:38:06] Log: {'context': ['配送時間如何計算？', '如何追蹤訂單狀態？', '可以選擇快遞公司嗎？', '配送的運費是多少？', '如果商品延遲送達該怎麼辦？'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 81}
-[2025-01-20 23:38:07] Log: Start 我購買的商品不滿意，請問如何退貨？
-[2025-01-20 23:38:07] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:38:07] Retrying request to /chat/completions in 0.406000 seconds
-[2025-01-20 23:38:10] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:38:10] Log: Success: 我購買的商品不滿意，請問如何退貨？
-[2025-01-20 23:38:10] Log: {'context': ['如何申請商品退換貨或退款？', '退換貨需要哪些條件？', '退換貨需要多久時間？', '退換貨是否有運費？', '可以退換哪些商品？'], 'score': {'query_faq_revelance': 1.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3233, 'cache_token': 3072, 'out_token': 75}
-[2025-01-20 23:38:11] Log: Start 可以用信用卡支付嗎？支持分期付款嗎？
-[2025-01-20 23:38:12] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:38:12] Retrying request to /chat/completions in 2.726000 seconds
-[2025-01-20 23:38:16] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:38:16] Log: Success: 可以用信用卡支付嗎？支持分期付款嗎？
-[2025-01-20 23:38:16] Log: {'context': ['信用卡支付的流程是什麼？', '支持的信用卡類型有哪些？', '如何申請分期付款？', '分期付款的條件是什麼？', '分期付款是否有額外費用？'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 82}
-[2025-01-20 23:38:17] Log: Start 現在有什麼優惠活動嗎？可以介紹一下嗎？
-[2025-01-20 23:38:18] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:38:18] Retrying request to /chat/completions in 3.230000 seconds
-[2025-01-20 23:38:23] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:38:23] Log: Success: 現在有什麼優惠活動嗎？可以介紹一下嗎？
-[2025-01-20 23:38:23] Log: {'context': ['最新活動與優惠', '如何取得優惠券', '熱門商品與服務', '如何成為會員', 'JTCG的品牌故事'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 60}
-[2025-01-20 23:38:24] Log: Start 請再幫我生成一張apple的照片
-[2025-01-20 23:38:24] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:38:24] Retrying request to /chat/completions in 4.898000 seconds
-[2025-01-20 23:38:42] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:38:42] Log: Success: 請再幫我生成一張apple的照片
-[2025-01-20 23:38:42] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 4121, 'cache_token': 3968, 'out_token': 65}
-[2025-01-20 23:38:43] Log: Start How to write javaScript function?
-[2025-01-20 23:38:45] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:38:45] Log: Success: How to write javaScript function?
-[2025-01-20 23:38:45] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3505, 'cache_token': 3328, 'out_token': 65}
-[2025-01-20 23:38:46] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
-[2025-01-20 23:38:48] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:38:48] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
-[2025-01-20 23:38:48] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3342, 'cache_token': 3200, 'out_token': 65}
-[2025-01-20 23:38:49] Log: Start 請再給我一份包含h2的
-[2025-01-20 23:38:49] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:38:49] Retrying request to /chat/completions in 0.644000 seconds
-[2025-01-20 23:38:52] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:38:52] Log: Success: 請再給我一份包含h2的
-[2025-01-20 23:38:52] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3350, 'cache_token': 3200, 'out_token': 65}
-[2025-01-20 23:38:53] Log: Start Can you provide another example of a poem with a focus on love?
-[2025-01-20 23:38:53] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:38:53] Retrying request to /chat/completions in 3.642000 seconds
-[2025-01-20 23:38:59] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:38:59] Log: Success: Can you provide another example of a poem with a focus on love?
-[2025-01-20 23:38:59] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3345, 'cache_token': 3200, 'out_token': 65}
-[2025-01-20 23:39:00] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
-[2025-01-20 23:39:00] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:39:00] Retrying request to /chat/completions in 3.800000 seconds
-[2025-01-20 23:39:10] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:39:10] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
-[2025-01-20 23:39:10] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3376, 'cache_token': 3200, 'out_token': 65}
-[2025-01-20 23:39:11] Log: Start JTCG Shop 還有哪些缺點？
-[2025-01-20 23:39:15] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:39:15] Log: Success: JTCG Shop 還有哪些缺點？
-[2025-01-20 23:39:15] Log: {'context': ['如何聯繫客服團隊', 'JTCG的退換貨政策', '熱門商品與服務', '最新活動與優惠', 'JTCG的品牌故事'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3312, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:39:16] Log: Start 
-[2025-01-20 23:39:16] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:39:16] Retrying request to /chat/completions in 0.966000 seconds
-[2025-01-20 23:39:19] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:39:19] Log: Success: 
-[2025-01-20 23:39:19] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3244, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:39:20] Log: Start weurjksdf098werjsdf?
-[2025-01-20 23:39:20] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:39:20] Retrying request to /chat/completions in 3.818000 seconds
-[2025-01-20 23:39:25] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:39:25] Log: Success: weurjksdf098werjsdf?
-[2025-01-20 23:39:25] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3299, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:39:26] Log: Start 請幫我推薦一件商品
-[2025-01-20 23:39:27] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:39:27] Retrying request to /chat/completions in 3.872000 seconds
-[2025-01-20 23:39:33] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:39:33] Log: Success: 請幫我推薦一件商品
-[2025-01-20 23:39:33] Log: {'context': ['守護天使24HRS無憂成長內衣 _(青春期款)', '約會必備超彈一字領上衣', 'Happy Holiday秋冬拉絨上衣', '雙色印花斜肩長Tee', '24HRS x LIP INTIMATE CARE專寵自我私密保養禮盒'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3323, 'cache_token': 3200, 'out_token': 107}
-[2025-01-20 23:39:34] Log: Start 請問這款藍色的短袖T恤還有貨嗎？
-[2025-01-20 23:39:34] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:39:34] Retrying request to /chat/completions in 3.046000 seconds
-[2025-01-20 23:39:39] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:39:39] Log: Success: 請問這款藍色的短袖T恤還有貨嗎？
-[2025-01-20 23:39:39] Log: {'context': ['如何查詢商品庫存', '如何購買商品', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.5, 'query_should_answer_or_not': 1.0}, 'input_token': 3236, 'cache_token': 3072, 'out_token': 64}
-[2025-01-20 23:39:40] Log: Start 如果今天下單，什麼時候可以收到商品？
-[2025-01-20 23:39:40] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:39:40] Retrying request to /chat/completions in 3.759000 seconds
-[2025-01-20 23:39:46] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:39:46] Log: Success: 如果今天下單，什麼時候可以收到商品？
-[2025-01-20 23:39:46] Log: {'context': ['配送時間的估算', '如何查詢訂單狀態', '商品配送方式選擇', '配送延遲問題處理', '訂單確認後的配送流程'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 71}
-[2025-01-20 23:39:47] Log: Start 我購買的商品不滿意，請問如何退貨？
-[2025-01-20 23:39:47] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:39:47] Retrying request to /chat/completions in 3.488000 seconds
-[2025-01-20 23:39:52] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:39:52] Log: Success: 我購買的商品不滿意，請問如何退貨？
-[2025-01-20 23:39:52] Log: {'context': ['退貨政策是什麼？', '如何申請退貨？', '退貨需要哪些條件？', '退貨需要多久時間？', '退貨是否有運費？'], 'score': {'query_faq_revelance': 1.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3233, 'cache_token': 3072, 'out_token': 69}
-[2025-01-20 23:39:53] Log: Start 可以用信用卡支付嗎？支持分期付款嗎？
-[2025-01-20 23:39:54] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:39:54] Retrying request to /chat/completions in 3.482000 seconds
-[2025-01-20 23:39:59] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:39:59] Log: Success: 可以用信用卡支付嗎？支持分期付款嗎？
-[2025-01-20 23:39:59] Log: {'context': ['支持的支付方式有哪些？', '信用卡分期付款的條件是什麼？', '如何申請信用卡分期付款？', '信用卡支付是否有手續費？', '分期付款的利率是多少？'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 82}
-[2025-01-20 23:40:00] Log: Start 現在有什麼優惠活動嗎？可以介紹一下嗎？
-[2025-01-20 23:40:01] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:40:01] Retrying request to /chat/completions in 3.236000 seconds
-[2025-01-20 23:40:06] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:40:06] Log: Success: 現在有什麼優惠活動嗎？可以介紹一下嗎？
-[2025-01-20 23:40:06] Log: {'context': ['最新活動與優惠', '如何取得優惠券', '熱門商品與服務', 'JTCG的品牌故事', '如何聯繫客服團隊'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 63}
-[2025-01-20 23:40:07] Log: Start 請再幫我生成一張apple的照片
-[2025-01-20 23:40:07] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:40:07] Retrying request to /chat/completions in 4.972000 seconds
-[2025-01-20 23:40:15] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:40:15] Log: Success: 請再幫我生成一張apple的照片
-[2025-01-20 23:40:15] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 4121, 'cache_token': 3968, 'out_token': 65}
-[2025-01-20 23:40:16] Log: Start How to write javaScript function?
-[2025-01-20 23:40:16] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:40:16] Retrying request to /chat/completions in 2.784000 seconds
-[2025-01-20 23:40:22] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:40:22] Log: Success: How to write javaScript function?
-[2025-01-20 23:40:22] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3505, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:40:23] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
-[2025-01-20 23:40:24] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:40:24] Retrying request to /chat/completions in 2.318000 seconds
-[2025-01-20 23:40:29] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:40:29] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
-[2025-01-20 23:40:29] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3342, 'cache_token': 3200, 'out_token': 94}
-[2025-01-20 23:40:30] Log: Start 請再給我一份包含h2的
-[2025-01-20 23:40:30] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:40:30] Retrying request to /chat/completions in 2.402000 seconds
-[2025-01-20 23:40:35] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:40:35] Log: Success: 請再給我一份包含h2的
-[2025-01-20 23:40:35] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3350, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:40:36] Log: Start Can you provide another example of a poem with a focus on love?
-[2025-01-20 23:40:36] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:40:36] Retrying request to /chat/completions in 3.682000 seconds
-[2025-01-20 23:40:42] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:40:42] Log: Success: Can you provide another example of a poem with a focus on love?
-[2025-01-20 23:40:42] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3345, 'cache_token': 3200, 'out_token': 65}
-[2025-01-20 23:40:43] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
-[2025-01-20 23:40:43] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:40:43] Retrying request to /chat/completions in 3.552000 seconds
-[2025-01-20 23:40:48] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:40:48] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
-[2025-01-20 23:40:48] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3376, 'cache_token': 3200, 'out_token': 65}
-[2025-01-20 23:40:49] Log: Start JTCG Shop 還有哪些缺點？
-[2025-01-20 23:40:50] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:40:50] Retrying request to /chat/completions in 3.684000 seconds
-[2025-01-20 23:40:55] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:40:55] Log: Success: JTCG Shop 還有哪些缺點？
-[2025-01-20 23:40:55] Log: {'context': ['JTCG的退換貨政策', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的品牌故事'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3312, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:40:56] Log: Start 
-[2025-01-20 23:40:56] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:40:56] Retrying request to /chat/completions in 3.624000 seconds
-[2025-01-20 23:41:02] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:41:02] Log: Success: 
-[2025-01-20 23:41:02] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3244, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:41:03] Log: Start weurjksdf098werjsdf?
-[2025-01-20 23:41:03] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:41:03] Retrying request to /chat/completions in 3.538000 seconds
-[2025-01-20 23:41:09] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:41:09] Log: Success: weurjksdf098werjsdf?
-[2025-01-20 23:41:09] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3299, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:41:10] Log: Start 請幫我推薦一件商品
-[2025-01-20 23:41:10] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:41:10] Retrying request to /chat/completions in 3.426000 seconds
-[2025-01-20 23:41:16] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:41:16] Log: Success: 請幫我推薦一件商品
-[2025-01-20 23:41:16] Log: {'context': ['守護天使24HRS無憂成長內衣 _(青春期款)', '約會必備超彈一字領上衣', 'Happy Holiday秋冬拉絨上衣', '雙色印花斜肩長Tee', '年末Party必備舒適顯瘦連身裙'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3323, 'cache_token': 3200, 'out_token': 128}
-[2025-01-20 23:41:17] Log: Start 請問這款藍色的短袖T恤還有貨嗎？
-[2025-01-20 23:41:18] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:41:18] Retrying request to /chat/completions in 2.558000 seconds
-[2025-01-20 23:41:27] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:41:27] Log: Success: 請問這款藍色的短袖T恤還有貨嗎？
-[2025-01-20 23:41:27] Log: {'context': ['如何查詢商品庫存', '熱門商品與服務', '如何查看商品顏色選項', '如何聯繫客服人員', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.5, 'query_should_answer_or_not': 1.0}, 'input_token': 3236, 'cache_token': 3072, 'out_token': 71}
-[2025-01-20 23:41:28] Log: Start 如果今天下單，什麼時候可以收到商品？
-[2025-01-20 23:41:31] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:41:31] Log: Success: 如果今天下單，什麼時候可以收到商品？
-[2025-01-20 23:41:31] Log: {'context': ['配送時間需要多久？', '如何查看訂單狀態？', '可以選擇配送日期嗎？', '有提供加急配送服務嗎？', '配送進度如何查詢？'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 74}
-[2025-01-20 23:41:32] Log: Start 我購買的商品不滿意，請問如何退貨？
-[2025-01-20 23:41:32] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:41:32] Retrying request to /chat/completions in 1.584000 seconds
-[2025-01-20 23:41:37] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:41:37] Log: Success: 我購買的商品不滿意，請問如何退貨？
-[2025-01-20 23:41:37] Log: {'context': ['退貨流程是什麼？', '退貨需要哪些條件？', '退貨需要多久時間？', '退貨是否有運費？', '可以退哪些商品？'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3233, 'cache_token': 3072, 'out_token': 70}
-[2025-01-20 23:41:38] Log: Start 可以用信用卡支付嗎？支持分期付款嗎？
-[2025-01-20 23:41:38] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:41:38] Retrying request to /chat/completions in 2.002000 seconds
-[2025-01-20 23:41:43] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:41:43] Log: Success: 可以用信用卡支付嗎？支持分期付款嗎？
-[2025-01-20 23:41:43] Log: {'context': ['支持的支付方式有哪些？', '信用卡付款的手續費是多少？', '如何申請分期付款？', '分期付款的利率是多少？', '哪些銀行的信用卡支持分期付款？'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 78}
-[2025-01-20 23:41:44] Log: Start 現在有什麼優惠活動嗎？可以介紹一下嗎？
-[2025-01-20 23:41:44] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:41:44] Retrying request to /chat/completions in 2.830000 seconds
-[2025-01-20 23:41:49] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:41:49] Log: Success: 現在有什麼優惠活動嗎？可以介紹一下嗎？
-[2025-01-20 23:41:49] Log: {'context': ['最新活動與優惠', '熱門商品與服務', '如何取得優惠券', '如何成為會員', '聯繫客服獲取更多資訊'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 63}
-[2025-01-20 23:41:50] Log: Start 請再幫我生成一張apple的照片
-[2025-01-20 23:41:50] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:41:50] Retrying request to /chat/completions in 4.980000 seconds
-[2025-01-20 23:42:20] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:42:20] Log: Success: 請再幫我生成一張apple的照片
-[2025-01-20 23:42:20] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 4121, 'cache_token': 3968, 'out_token': 65}
-[2025-01-20 23:42:21] Log: Start How to write javaScript function?
-[2025-01-20 23:42:23] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:42:23] Log: Success: How to write javaScript function?
-[2025-01-20 23:42:23] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3505, 'cache_token': 3328, 'out_token': 65}
-[2025-01-20 23:42:24] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
-[2025-01-20 23:42:26] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:42:26] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
-[2025-01-20 23:42:26] Log: {'context': ['iPad Pro 2030 的顯示技術', 'iPad Pro 2030 的螢幕規格', 'iPad Pro 2030 的技術特點', 'iPad Pro 2030 的顏色選擇', 'iPad Pro 2030 的售價'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3342, 'cache_token': 3200, 'out_token': 123}
-[2025-01-20 23:42:27] Log: Start 請再給我一份包含h2的
-[2025-01-20 23:42:30] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:42:30] Log: Success: 請再給我一份包含h2的
-[2025-01-20 23:42:30] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3350, 'cache_token': 3200, 'out_token': 94}
-[2025-01-20 23:42:31] Log: Start Can you provide another example of a poem with a focus on love?
-[2025-01-20 23:42:33] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:42:33] Log: Success: Can you provide another example of a poem with a focus on love?
-[2025-01-20 23:42:33] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3345, 'cache_token': 3200, 'out_token': 65}
-[2025-01-20 23:42:34] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
-[2025-01-20 23:42:35] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:42:35] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
-[2025-01-20 23:42:35] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3376, 'cache_token': 3200, 'out_token': 65}
-[2025-01-20 23:42:36] Log: Start JTCG Shop 還有哪些缺點？
-[2025-01-20 23:42:38] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:42:38] Log: Success: JTCG Shop 還有哪些缺點？
-[2025-01-20 23:42:38] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3312, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:42:39] Log: Start 
-[2025-01-20 23:42:39] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:42:39] Retrying request to /chat/completions in 3.600000 seconds
-[2025-01-20 23:42:45] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:42:45] Log: Success: 
-[2025-01-20 23:42:45] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3244, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:42:46] Log: Start weurjksdf098werjsdf?
-[2025-01-20 23:42:46] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:42:46] Retrying request to /chat/completions in 3.804000 seconds
-[2025-01-20 23:42:52] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:42:52] Log: Success: weurjksdf098werjsdf?
-[2025-01-20 23:42:52] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3299, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:42:53] Log: Start 請幫我推薦一件商品
-[2025-01-20 23:42:53] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:42:53] Retrying request to /chat/completions in 3.574000 seconds
-[2025-01-20 23:42:59] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:42:59] Log: Success: 請幫我推薦一件商品
-[2025-01-20 23:42:59] Log: {'context': ['守護天使24HRS無憂成長內衣 _(青春期款)', '約會必備超彈一字領上衣', 'Happy Holiday秋冬拉絨上衣', '雙色印花斜肩長Tee', '年末Party必備舒適顯瘦連身裙'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3323, 'cache_token': 3200, 'out_token': 128}
-[2025-01-20 23:43:00] Log: Start 請問這款藍色的短袖T恤還有貨嗎？
-[2025-01-20 23:43:01] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:43:01] Retrying request to /chat/completions in 2.808000 seconds
-[2025-01-20 23:43:05] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:43:05] Log: Success: 請問這款藍色的短袖T恤還有貨嗎？
-[2025-01-20 23:43:05] Log: {'context': ['如何查詢商品庫存', '如何選擇商品尺寸', '商品缺貨時的通知方式', '購買商品的流程', '如何查看商品詳細資料'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3236, 'cache_token': 3072, 'out_token': 67}
-[2025-01-20 23:43:06] Log: Start 如果今天下單，什麼時候可以收到商品？
-[2025-01-20 23:43:06] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:43:06] Retrying request to /chat/completions in 3.614000 seconds
-[2025-01-20 23:43:12] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:43:12] Log: Success: 如果今天下單，什麼時候可以收到商品？
-[2025-01-20 23:43:12] Log: {'context': ['配送時間的計算方法', '如何查詢訂單配送狀態', '是否可以加急處理訂單', '配送延遲的常見原因', '如何更改配送地址'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 72}
-[2025-01-20 23:43:13] Log: Start 我購買的商品不滿意，請問如何退貨？
-[2025-01-20 23:43:13] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:43:13] Retrying request to /chat/completions in 3.190000 seconds
-[2025-01-20 23:43:19] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:43:19] Log: Success: 我購買的商品不滿意，請問如何退貨？
-[2025-01-20 23:43:19] Log: {'context': ['退換貨需要哪些條件？', '如何申請退換貨？', '退換貨需要多久時間？', '退換貨是否有運費？', '可以退換哪些商品？'], 'score': {'query_faq_revelance': 1.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3233, 'cache_token': 3072, 'out_token': 72}
-[2025-01-20 23:43:20] Log: Start 可以用信用卡支付嗎？支持分期付款嗎？
-[2025-01-20 23:43:20] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:43:20] Retrying request to /chat/completions in 2.734000 seconds
-[2025-01-20 23:43:25] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:43:25] Log: Success: 可以用信用卡支付嗎？支持分期付款嗎？
-[2025-01-20 23:43:25] Log: {'context': ['信用卡支付的步驟', '支持的信用卡種類', '如何申請分期付款', '分期付款的條件', '信用卡付款的手續費'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 69}
-[2025-01-20 23:43:26] Log: Start 現在有什麼優惠活動嗎？可以介紹一下嗎？
-[2025-01-20 23:43:26] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:43:26] Retrying request to /chat/completions in 3.264000 seconds
-[2025-01-20 23:43:32] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:43:32] Log: Success: 現在有什麼優惠活動嗎？可以介紹一下嗎？
-[2025-01-20 23:43:32] Log: {'context': ['最新活動與優惠', '如何取得優惠券', '熱門商品與服務', '如何成為會員', 'JTCG的品牌故事'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 60}
-[2025-01-20 23:43:33] Log: Start 請再幫我生成一張apple的照片
-[2025-01-20 23:43:34] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:43:34] Retrying request to /chat/completions in 4.388000 seconds
-[2025-01-20 23:43:48] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:43:48] Log: Success: 請再幫我生成一張apple的照片
-[2025-01-20 23:43:48] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 4121, 'cache_token': 3968, 'out_token': 65}
-[2025-01-20 23:43:49] Log: Start How to write javaScript function?
-[2025-01-20 23:43:51] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:43:51] Log: Success: How to write javaScript function?
-[2025-01-20 23:43:51] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3505, 'cache_token': 3328, 'out_token': 65}
-[2025-01-20 23:43:52] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
-[2025-01-20 23:43:54] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:43:54] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
-[2025-01-20 23:43:54] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3342, 'cache_token': 3200, 'out_token': 65}
-[2025-01-20 23:43:55] Log: Start 請再給我一份包含h2的
-[2025-01-20 23:43:55] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:43:55] Retrying request to /chat/completions in 3.538000 seconds
-[2025-01-20 23:44:00] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:44:00] Log: Success: 請再給我一份包含h2的
-[2025-01-20 23:44:00] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3350, 'cache_token': 3200, 'out_token': 65}
-[2025-01-20 23:44:01] Log: Start Can you provide another example of a poem with a focus on love?
-[2025-01-20 23:44:02] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:44:02] Retrying request to /chat/completions in 2.336000 seconds
-[2025-01-20 23:44:06] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:44:06] Log: Success: Can you provide another example of a poem with a focus on love?
-[2025-01-20 23:44:06] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3345, 'cache_token': 3200, 'out_token': 94}
-[2025-01-20 23:44:07] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
-[2025-01-20 23:44:08] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:44:08] Retrying request to /chat/completions in 3.176000 seconds
-[2025-01-20 23:44:13] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:44:13] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
-[2025-01-20 23:44:13] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3376, 'cache_token': 3200, 'out_token': 65}
-[2025-01-20 23:44:14] Log: Start JTCG Shop 還有哪些缺點？
-[2025-01-20 23:44:14] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:44:14] Retrying request to /chat/completions in 3.434000 seconds
-[2025-01-20 23:44:20] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:44:20] Log: Success: JTCG Shop 還有哪些缺點？
-[2025-01-20 23:44:20] Log: {'context': ['如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策', '產品質量保證及維修服務'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3312, 'cache_token': 3072, 'out_token': 68}
-[2025-01-20 23:44:21] Log: Start 
-[2025-01-20 23:44:21] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:44:21] Retrying request to /chat/completions in 3.274000 seconds
-[2025-01-20 23:44:26] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:44:26] Log: Success: 
-[2025-01-20 23:44:26] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3244, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:44:27] Log: Start weurjksdf098werjsdf?
-[2025-01-20 23:44:27] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:44:27] Retrying request to /chat/completions in 3.598000 seconds
-[2025-01-20 23:44:33] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:44:33] Log: Success: weurjksdf098werjsdf?
-[2025-01-20 23:44:33] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3299, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:44:34] Log: Start 請幫我推薦一件商品
-[2025-01-20 23:44:34] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:44:34] Retrying request to /chat/completions in 3.726000 seconds
-[2025-01-20 23:44:41] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:44:41] Log: Success: 請幫我推薦一件商品
-[2025-01-20 23:44:41] Log: {'context': ['守護天使24HRS無憂成長內衣 _(青春期款)', '約會必備超彈一字領上衣', 'Happy Holiday秋冬拉絨上衣', '年末Party必備舒適顯瘦連身裙', '冰涼吶喊24HRS無感冰絲內衣_(沁涼冰絲)'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3323, 'cache_token': 3200, 'out_token': 139}
-[2025-01-20 23:44:42] Log: Start 請問這款藍色的短袖T恤還有貨嗎？
-[2025-01-20 23:44:42] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:44:42] Retrying request to /chat/completions in 2.674000 seconds
-[2025-01-20 23:44:46] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:44:46] Log: Success: 請問這款藍色的短袖T恤還有貨嗎？
-[2025-01-20 23:44:46] Log: {'context': ['如何查詢商品庫存', '熱門商品與服務', '如何購買商品', '如何聯繫客服團隊', '最新活動與優惠'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.5, 'query_should_answer_or_not': 1.0}, 'input_token': 3236, 'cache_token': 3072, 'out_token': 63}
-[2025-01-20 23:44:47] Log: Start 如果今天下單，什麼時候可以收到商品？
-[2025-01-20 23:44:48] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:44:48] Retrying request to /chat/completions in 3.656000 seconds
-[2025-01-20 23:44:53] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:44:53] Log: Success: 如果今天下單，什麼時候可以收到商品？
-[2025-01-20 23:44:53] Log: {'context': ['配送時間如何計算？', '可以選擇加急配送服務嗎？', '如何追蹤訂單狀態？', '如果配送延遲該怎麼辦？', '商品配送需要多久時間？'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 81}
-[2025-01-20 23:44:54] Log: Start 我購買的商品不滿意，請問如何退貨？
-[2025-01-20 23:44:55] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:44:55] Retrying request to /chat/completions in 3.136000 seconds
-[2025-01-20 23:45:00] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:45:00] Log: Success: 我購買的商品不滿意，請問如何退貨？
-[2025-01-20 23:45:00] Log: {'context': ['如何申請退換貨？', '退換貨需要哪些條件？', '退換貨需要多久時間？', '退換貨是否有運費？', '可以退換哪些商品？'], 'score': {'query_faq_revelance': 1.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3233, 'cache_token': 3072, 'out_token': 72}
-[2025-01-20 23:45:01] Log: Start 可以用信用卡支付嗎？支持分期付款嗎？
-[2025-01-20 23:45:01] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:45:01] Retrying request to /chat/completions in 3.148000 seconds
-[2025-01-20 23:45:06] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:45:06] Log: Success: 可以用信用卡支付嗎？支持分期付款嗎？
-[2025-01-20 23:45:06] Log: {'context': ['信用卡支付的選項有哪些？', '支持的信用卡品牌有哪些？', '分期付款的條件是什麼？', '如何申請信用卡分期付款？', '信用卡支付的手續費是多少？'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 81}
-[2025-01-20 23:45:07] Log: Start 現在有什麼優惠活動嗎？可以介紹一下嗎？
-[2025-01-20 23:45:07] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:45:07] Retrying request to /chat/completions in 3.664000 seconds
-[2025-01-20 23:45:13] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:45:13] Log: Success: 現在有什麼優惠活動嗎？可以介紹一下嗎？
-[2025-01-20 23:45:13] Log: {'context': ['最新活動與優惠', '如何取得優惠券', '如何成為會員', '熱門商品與服務', 'JTCG的品牌故事'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 60}
-[2025-01-20 23:45:14] Log: Start 請再幫我生成一張apple的照片
-[2025-01-20 23:45:14] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:45:14] Retrying request to /chat/completions in 3.812000 seconds
-[2025-01-20 23:45:21] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:45:21] Log: Success: 請再幫我生成一張apple的照片
-[2025-01-20 23:45:21] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 4121, 'cache_token': 3968, 'out_token': 65}
-[2025-01-20 23:45:22] Log: Start How to write javaScript function?
-[2025-01-20 23:45:23] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:45:23] Retrying request to /chat/completions in 2.172000 seconds
-[2025-01-20 23:45:27] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:45:27] Log: Success: How to write javaScript function?
-[2025-01-20 23:45:27] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3505, 'cache_token': 3328, 'out_token': 65}
-[2025-01-20 23:45:28] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
-[2025-01-20 23:45:28] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:45:28] Retrying request to /chat/completions in 3.758000 seconds
-[2025-01-20 23:45:34] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:45:34] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
-[2025-01-20 23:45:34] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3342, 'cache_token': 3200, 'out_token': 65}
-[2025-01-20 23:45:35] Log: Start 請再給我一份包含h2的
-[2025-01-20 23:45:35] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:45:35] Retrying request to /chat/completions in 3.494000 seconds
-[2025-01-20 23:45:40] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:45:40] Log: Success: 請再給我一份包含h2的
-[2025-01-20 23:45:40] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3350, 'cache_token': 3200, 'out_token': 65}
-[2025-01-20 23:45:41] Log: Start Can you provide another example of a poem with a focus on love?
-[2025-01-20 23:45:42] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:45:42] Retrying request to /chat/completions in 3.740000 seconds
-[2025-01-20 23:45:48] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:45:48] Log: Success: Can you provide another example of a poem with a focus on love?
-[2025-01-20 23:45:48] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3345, 'cache_token': 3200, 'out_token': 65}
-[2025-01-20 23:45:49] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
-[2025-01-20 23:45:49] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:45:49] Retrying request to /chat/completions in 3.406000 seconds
-[2025-01-20 23:45:54] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:45:54] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
-[2025-01-20 23:45:54] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3376, 'cache_token': 3200, 'out_token': 65}
-[2025-01-20 23:45:55] Log: Start JTCG Shop 還有哪些缺點？
-[2025-01-20 23:45:56] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:45:56] Retrying request to /chat/completions in 3.528000 seconds
-[2025-01-20 23:46:02] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:46:02] Log: Success: JTCG Shop 還有哪些缺點？
-[2025-01-20 23:46:02] Log: {'context': ['如何聯繫客服團隊', 'JTCG的退換貨政策', '熱門商品與服務', '最新活動與優惠', 'JTCG的品牌故事'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3312, 'cache_token': 3072, 'out_token': 64}
-[2025-01-20 23:46:03] Log: Start 
-[2025-01-20 23:46:03] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:46:03] Retrying request to /chat/completions in 2.876000 seconds
-[2025-01-20 23:46:08] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:46:08] Log: Success: 
-[2025-01-20 23:46:08] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3244, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:46:09] Log: Start weurjksdf098werjsdf?
-[2025-01-20 23:46:09] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:46:09] Retrying request to /chat/completions in 3.522000 seconds
-[2025-01-20 23:46:14] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:46:14] Log: Success: weurjksdf098werjsdf?
-[2025-01-20 23:46:14] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3299, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:46:15] Log: Start 請幫我推薦一件商品
-[2025-01-20 23:46:16] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:46:16] Retrying request to /chat/completions in 3.606000 seconds
-[2025-01-20 23:46:22] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:46:22] Log: Success: 請幫我推薦一件商品
-[2025-01-20 23:46:22] Log: {'context': ['守護天使24HRS無憂成長內衣 _(青春期款)', '約會必備超彈一字領上衣', 'Happy Holiday秋冬拉絨上衣', '雙色印花斜肩長Tee', '24HRS x LIP INTIMATE CARE專寵自我私密保養禮盒'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3323, 'cache_token': 3200, 'out_token': 135}
-[2025-01-20 23:46:23] Log: Start 請問這款藍色的短袖T恤還有貨嗎？
-[2025-01-20 23:46:23] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:46:23] Retrying request to /chat/completions in 2.532000 seconds
-[2025-01-20 23:46:28] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:46:28] Log: Success: 請問這款藍色的短袖T恤還有貨嗎？
-[2025-01-20 23:46:28] Log: {'context': ['查詢商品庫存的方法', '如何查看商品詳情', '如何購買商品', '如何聯繫客服團隊', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.5, 'query_should_answer_or_not': 1.0}, 'input_token': 3236, 'cache_token': 3072, 'out_token': 68}
-[2025-01-20 23:46:29] Log: Start 如果今天下單，什麼時候可以收到商品？
-[2025-01-20 23:46:29] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:46:29] Retrying request to /chat/completions in 3.534000 seconds
-[2025-01-20 23:46:36] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:46:36] Log: Success: 如果今天下單，什麼時候可以收到商品？
-[2025-01-20 23:46:36] Log: {'context': ['配送需要多久時間？', '可以選擇快遞服務嗎？', '如何查詢訂單狀態？', '配送過程中可以修改地址嗎？', '商品寄送的運費是多少？'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 77}
-[2025-01-20 23:46:37] Log: Start 我購買的商品不滿意，請問如何退貨？
-[2025-01-20 23:46:37] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:46:37] Retrying request to /chat/completions in 2.252000 seconds
-[2025-01-20 23:46:41] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:46:41] Log: Success: 我購買的商品不滿意，請問如何退貨？
-[2025-01-20 23:46:41] Log: {'context': ['如何申請商品退換貨或退款？', '退換貨需要哪些條件？', '退換貨需要多久時間？', '退換貨是否有運費？', '可以退換哪些商品？'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3233, 'cache_token': 3072, 'out_token': 77}
-[2025-01-20 23:46:42] Log: Start 可以用信用卡支付嗎？支持分期付款嗎？
-[2025-01-20 23:46:43] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:46:43] Retrying request to /chat/completions in 3.262000 seconds
-[2025-01-20 23:46:48] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:46:48] Log: Success: 可以用信用卡支付嗎？支持分期付款嗎？
-[2025-01-20 23:46:48] Log: {'context': ['信用卡支付的選項有哪些？', '是否支持分期付款？', '信用卡支付的手續費用是多少？', '有哪些分期付款的條件？', '如何設置信用卡自動付款？'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 79}
-[2025-01-20 23:46:49] Log: Start 現在有什麼優惠活動嗎？可以介紹一下嗎？
-[2025-01-20 23:46:49] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:46:49] Retrying request to /chat/completions in 3.386000 seconds
-[2025-01-20 23:46:55] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:46:55] Log: Success: 現在有什麼優惠活動嗎？可以介紹一下嗎？
-[2025-01-20 23:46:55] Log: {'context': ['最新活動與優惠', '如何取得優惠券', '熱門商品與服務', '如何聯繫客服團隊', 'JTCG的品牌故事'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 63}
-[2025-01-20 23:46:56] Log: Start 請再幫我生成一張apple的照片
-[2025-01-20 23:46:56] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:46:56] Retrying request to /chat/completions in 4.810000 seconds
-[2025-01-20 23:47:04] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:47:04] Log: Success: 請再幫我生成一張apple的照片
-[2025-01-20 23:47:04] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 4121, 'cache_token': 3968, 'out_token': 65}
-[2025-01-20 23:47:05] Log: Start How to write javaScript function?
-[2025-01-20 23:47:05] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:47:05] Retrying request to /chat/completions in 2.696000 seconds
-[2025-01-20 23:47:10] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:47:10] Log: Success: How to write javaScript function?
-[2025-01-20 23:47:10] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3505, 'cache_token': 3328, 'out_token': 65}
-[2025-01-20 23:47:11] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
-[2025-01-20 23:47:11] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:47:11] Retrying request to /chat/completions in 3.884000 seconds
-[2025-01-20 23:47:17] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:47:17] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
-[2025-01-20 23:47:17] Log: {'context': ['iPad Pro 2030的顯示技術', 'iPad Pro 2030的螢幕尺寸', 'iPad Pro 2030的解析度', 'iPad Pro 2030的顯示器特點', 'iPad Pro 2030的螢幕刷新率'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3342, 'cache_token': 3200, 'out_token': 124}
-[2025-01-20 23:47:18] Log: Start 請再給我一份包含h2的
-[2025-01-20 23:47:19] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:47:19] Retrying request to /chat/completions in 3.042000 seconds
-[2025-01-20 23:47:23] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:47:23] Log: Success: 請再給我一份包含h2的
-[2025-01-20 23:47:23] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3350, 'cache_token': 3200, 'out_token': 65}
-[2025-01-20 23:47:24] Log: Start Can you provide another example of a poem with a focus on love?
-[2025-01-20 23:47:25] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:47:25] Retrying request to /chat/completions in 3.800000 seconds
-[2025-01-20 23:47:31] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:47:31] Log: Success: Can you provide another example of a poem with a focus on love?
-[2025-01-20 23:47:31] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3345, 'cache_token': 3200, 'out_token': 65}
-[2025-01-20 23:47:32] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
-[2025-01-20 23:47:32] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:47:32] Retrying request to /chat/completions in 3.440000 seconds
-[2025-01-20 23:47:37] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:47:37] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
-[2025-01-20 23:47:37] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3376, 'cache_token': 3200, 'out_token': 65}
-[2025-01-20 23:47:38] Log: Start JTCG Shop 還有哪些缺點？
-[2025-01-20 23:47:38] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:47:38] Retrying request to /chat/completions in 3.630000 seconds
-[2025-01-20 23:48:06] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:48:06] Log: Success: JTCG Shop 還有哪些缺點？
-[2025-01-20 23:48:06] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3312, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:48:07] Log: Start 
-[2025-01-20 23:48:09] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:48:09] Log: Success: 
-[2025-01-20 23:48:09] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3244, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:48:10] Log: Start weurjksdf098werjsdf?
-[2025-01-20 23:48:13] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:48:13] Log: Success: weurjksdf098werjsdf?
-[2025-01-20 23:48:13] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3299, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:48:14] Log: Start 請幫我推薦一件商品
-[2025-01-20 23:48:17] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:48:17] Log: Success: 請幫我推薦一件商品
-[2025-01-20 23:48:17] Log: {'context': ['守護天使24HRS無憂成長內衣 _(青春期款)', '約會必備超彈一字領上衣', 'Happy Holiday秋冬拉絨上衣', '年末Party必備舒適顯瘦連身裙', '雙色時髦過冬鋪棉工裝夾克'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3323, 'cache_token': 3200, 'out_token': 134}
-[2025-01-20 23:48:18] Log: Start 請問這款藍色的短袖T恤還有貨嗎？
-[2025-01-20 23:48:20] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:48:20] Log: Success: 請問這款藍色的短袖T恤還有貨嗎？
-[2025-01-20 23:48:20] Log: {'context': ['查詢商品庫存狀況的方法', '如何訂購缺貨商品', '熱門商品補貨時間', '聯繫客服查詢商品', '如何選擇其他顏色或款式'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.5, 'query_should_answer_or_not': 1.0}, 'input_token': 3236, 'cache_token': 3072, 'out_token': 76}
-[2025-01-20 23:48:21] Log: Start 如果今天下單，什麼時候可以收到商品？
-[2025-01-20 23:48:23] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:48:23] Log: Success: 如果今天下單，什麼時候可以收到商品？
-[2025-01-20 23:48:23] Log: {'context': ['配送時間的計算方式', '如何查詢訂單狀態', '是否提供快速配送服務', '配送延遲該怎麼處理', '商品訂單的處理流程'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 74}
-[2025-01-20 23:48:24] Log: Start 我購買的商品不滿意，請問如何退貨？
-[2025-01-20 23:48:26] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:48:26] Log: Success: 我購買的商品不滿意，請問如何退貨？
-[2025-01-20 23:48:26] Log: {'context': ['如何申請商品退換貨或退款？', '退換貨需要哪些條件？', '退換貨需要多久時間？', '退換貨是否有運費？', '可以退換哪些商品？'], 'score': {'query_faq_revelance': 1.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3233, 'cache_token': 3072, 'out_token': 75}
-[2025-01-20 23:48:27] Log: Start 可以用信用卡支付嗎？支持分期付款嗎？
-[2025-01-20 23:48:27] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:48:27] Retrying request to /chat/completions in 1.678000 seconds
-[2025-01-20 23:48:31] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:48:31] Log: Success: 可以用信用卡支付嗎？支持分期付款嗎？
-[2025-01-20 23:48:31] Log: {'context': ['信用卡支付的方式有哪些？', '如何申請信用卡分期付款？', '信用卡分期付款的條件是什麼？', '支持哪些銀行的信用卡？', '信用卡支付有無手續費？'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 81}
-[2025-01-20 23:48:32] Log: Start 現在有什麼優惠活動嗎？可以介紹一下嗎？
-[2025-01-20 23:48:32] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:48:32] Retrying request to /chat/completions in 3.456000 seconds
-[2025-01-20 23:48:37] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:48:37] Log: Success: 現在有什麼優惠活動嗎？可以介紹一下嗎？
-[2025-01-20 23:48:37] Log: {'context': ['最新活動與優惠', '如何取得優惠券', '熱門商品與服務', '如何成為會員', 'JTCG的品牌故事'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 59}
-[2025-01-20 23:48:38] Log: Start 請再幫我生成一張apple的照片
-[2025-01-20 23:48:39] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:48:39] Retrying request to /chat/completions in 5.100000 seconds
-[2025-01-20 23:48:47] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:48:47] Log: Success: 請再幫我生成一張apple的照片
-[2025-01-20 23:48:47] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 4121, 'cache_token': 3968, 'out_token': 65}
-[2025-01-20 23:48:48] Log: Start How to write javaScript function?
-[2025-01-20 23:48:48] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:48:48] Retrying request to /chat/completions in 2.810000 seconds
-[2025-01-20 23:48:53] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:48:53] Log: Success: How to write javaScript function?
-[2025-01-20 23:48:53] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3505, 'cache_token': 3328, 'out_token': 65}
-[2025-01-20 23:48:54] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
-[2025-01-20 23:48:54] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:48:54] Retrying request to /chat/completions in 3.694000 seconds
-[2025-01-20 23:49:00] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:49:00] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
-[2025-01-20 23:49:00] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3342, 'cache_token': 3200, 'out_token': 94}
-[2025-01-20 23:49:01] Log: Start 請再給我一份包含h2的
-[2025-01-20 23:49:02] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:49:02] Retrying request to /chat/completions in 3.032000 seconds
-[2025-01-20 23:49:06] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:49:06] Log: Success: 請再給我一份包含h2的
-[2025-01-20 23:49:06] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3350, 'cache_token': 3200, 'out_token': 65}
-[2025-01-20 23:49:07] Log: Start Can you provide another example of a poem with a focus on love?
-[2025-01-20 23:49:08] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:49:08] Retrying request to /chat/completions in 3.843000 seconds
-[2025-01-20 23:49:13] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:49:13] Log: Success: Can you provide another example of a poem with a focus on love?
-[2025-01-20 23:49:13] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3345, 'cache_token': 3200, 'out_token': 65}
-[2025-01-20 23:49:14] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
-[2025-01-20 23:49:15] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:49:15] Retrying request to /chat/completions in 3.622000 seconds
-[2025-01-20 23:49:20] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:49:20] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
-[2025-01-20 23:49:20] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3376, 'cache_token': 3200, 'out_token': 65}
-[2025-01-20 23:49:21] Log: Start JTCG Shop 還有哪些缺點？
-[2025-01-20 23:49:22] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:49:22] Retrying request to /chat/completions in 3.484000 seconds
-[2025-01-20 23:49:27] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:49:27] Log: Success: JTCG Shop 還有哪些缺點？
-[2025-01-20 23:49:27] Log: {'context': ['如何聯繫客服團隊', 'JTCG的退換貨政策', '熱門商品與服務', '最新活動與優惠', 'JTCG的品牌故事'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3312, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:49:28] Log: Start 
-[2025-01-20 23:49:29] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:49:29] Retrying request to /chat/completions in 3.088000 seconds
-[2025-01-20 23:49:34] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:49:34] Log: Success: 
-[2025-01-20 23:49:34] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3244, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:49:35] Log: Start weurjksdf098werjsdf?
-[2025-01-20 23:49:35] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:49:35] Retrying request to /chat/completions in 3.594000 seconds
-[2025-01-20 23:49:40] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:49:40] Log: Success: weurjksdf098werjsdf?
-[2025-01-20 23:49:40] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 3299, 'cache_token': 3072, 'out_token': 65}
-[2025-01-20 23:49:41] Log: Start 請幫我推薦一件商品
-[2025-01-20 23:49:41] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:49:41] Retrying request to /chat/completions in 3.851000 seconds
-[2025-01-20 23:49:48] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:49:48] Log: Success: 請幫我推薦一件商品
-[2025-01-20 23:49:48] Log: {'context': ['守護天使24HRS無憂成長內衣 _(青春期款)', '約會必備超彈一字領上衣', 'Happy Holiday秋冬拉絨上衣', '雙色印花斜肩長Tee', '年末Party必備舒適顯瘦連身裙'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3323, 'cache_token': 3200, 'out_token': 128}
-[2025-01-20 23:49:49] Log: Start 請問這款藍色的短袖T恤還有貨嗎？
-[2025-01-20 23:49:49] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:49:49] Retrying request to /chat/completions in 3.070000 seconds
-[2025-01-20 23:49:54] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:49:54] Log: Success: 請問這款藍色的短袖T恤還有貨嗎？
-[2025-01-20 23:49:54] Log: {'context': ['如何查詢商品庫存', '藍色短袖T恤的其他款式', '熱門商品與服務', '最新活動與優惠', '如何聯繫客服團隊'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.5, 'query_should_answer_or_not': 1.0}, 'input_token': 3236, 'cache_token': 3072, 'out_token': 71}
-[2025-01-20 23:49:55] Log: Start 如果今天下單，什麼時候可以收到商品？
-[2025-01-20 23:49:55] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:49:55] Retrying request to /chat/completions in 3.692000 seconds
-[2025-01-20 23:50:00] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:50:00] Log: Success: 如果今天下單，什麼時候可以收到商品？
-[2025-01-20 23:50:00] Log: {'context': ['配送時間需要多久？', '如何查詢訂單狀態？', '配送方式有哪些選擇？', '是否可以加急配送？', '如何更改配送地址？'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 71}
-[2025-01-20 23:50:01] Log: Start 我購買的商品不滿意，請問如何退貨？
-[2025-01-20 23:50:02] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:50:02] Retrying request to /chat/completions in 3.634000 seconds
-[2025-01-20 23:50:07] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:50:07] Log: Success: 我購買的商品不滿意，請問如何退貨？
-[2025-01-20 23:50:07] Log: {'context': ['如何申請退換貨？', '退換貨需要哪些條件？', '退換貨需要多久時間？', '退換貨是否有運費？', '可以退換哪些商品？'], 'score': {'query_faq_revelance': 1.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3233, 'cache_token': 3072, 'out_token': 72}
-[2025-01-20 23:50:08] Log: Start 可以用信用卡支付嗎？支持分期付款嗎？
-[2025-01-20 23:50:09] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:50:09] Retrying request to /chat/completions in 3.300000 seconds
-[2025-01-20 23:50:15] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:50:15] Log: Success: 可以用信用卡支付嗎？支持分期付款嗎？
-[2025-01-20 23:50:15] Log: {'context': ['支持的支付方式有哪些？', '信用卡支付的流程是什麼？', '分期付款的條件是什麼？', '如何申請分期付款？', '分期付款是否有手續費？'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 79}
-[2025-01-20 23:50:16] Log: Start 現在有什麼優惠活動嗎？可以介紹一下嗎？
-[2025-01-20 23:50:16] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
-[2025-01-20 23:50:16] Retrying request to /chat/completions in 2.614000 seconds
-[2025-01-20 23:50:20] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-[2025-01-20 23:50:20] Log: Success: 現在有什麼優惠活動嗎？可以介紹一下嗎？
-[2025-01-20 23:50:20] Log: {'context': ['最新活動與優惠', '如何取得優惠券', '熱門商品與服務', '如何成為會員', 'JTCG的品牌故事'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 3231, 'cache_token': 3072, 'out_token': 60}[2025-01-20 23:57:53] Log: Thread started.
+[2025-01-23 11:48:16] Log: Start 請再幫我生成一張apple的照片
+[2025-01-23 11:48:19] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:48:19] Log: Success: 請再幫我生成一張apple的照片
+[2025-01-23 11:48:19] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 2561, 'cache_token': 0, 'out_token': 65}
+[2025-01-23 11:48:20] Log: Start How to write javaScript function?
+[2025-01-23 11:48:22] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:48:22] Log: Success: How to write javaScript function?
+[2025-01-23 11:48:22] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1945, 'cache_token': 0, 'out_token': 65}
+[2025-01-23 11:48:23] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-23 11:48:24] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:48:24] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-23 11:48:24] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1782, 'cache_token': 1408, 'out_token': 71}
+[2025-01-23 11:48:25] Log: Start 請再給我一份包含h2的
+[2025-01-23 11:48:27] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:48:27] Log: Success: 請再給我一份包含h2的
+[2025-01-23 11:48:27] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1790, 'cache_token': 1408, 'out_token': 65}
+[2025-01-23 11:48:28] Log: Start Can you provide another example of a poem with a focus on love?
+[2025-01-23 11:48:30] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:48:30] Log: Success: Can you provide another example of a poem with a focus on love?
+[2025-01-23 11:48:30] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1785, 'cache_token': 0, 'out_token': 65}
+[2025-01-23 11:48:31] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-23 11:48:33] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:48:33] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-23 11:48:33] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1816, 'cache_token': 1408, 'out_token': 71}
+[2025-01-23 11:48:34] Log: Start JTCG Shop 還有哪些缺點？
+[2025-01-23 11:48:35] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:48:35] Log: Success: JTCG Shop 還有哪些缺點？
+[2025-01-23 11:48:35] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1752, 'cache_token': 1408, 'out_token': 94}
+[2025-01-23 11:48:36] Log: Start 
+[2025-01-23 11:48:38] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:48:38] Log: Success: 
+[2025-01-23 11:48:38] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 0.5, 'query_should_answer_or_not': 0.5}, 'input_token': 1684, 'cache_token': 1408, 'out_token': 71}
+[2025-01-23 11:48:39] Log: Start weurjksdf098werjsdf?
+[2025-01-23 11:48:42] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:48:42] Log: Success: weurjksdf098werjsdf?
+[2025-01-23 11:48:42] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1739, 'cache_token': 1408, 'out_token': 65}
+[2025-01-23 11:48:43] Log: Start 請幫我推薦一件商品
+[2025-01-23 11:48:46] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:48:46] Log: Success: 請幫我推薦一件商品
+[2025-01-23 11:48:46] Log: {'context': ['守護天使24HRS無憂成長內衣 _(青春期款)', '約會必備超彈一字領上衣', 'Happy Holiday秋冬拉絨上衣', '雙色印花斜肩長Tee', '冰涼吶喊24HRS無感冰絲內衣_(沁涼冰絲)'], 'score': {'query_faq_revelance': 0.8, 'query_response_relevance': 0.9, 'query_should_answer_or_not': 1.0}, 'input_token': 1763, 'cache_token': 1408, 'out_token': 114}
+[2025-01-23 11:48:47] Log: Start 請問這款藍色的短袖T恤還有貨嗎？
+[2025-01-23 11:48:49] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:48:49] Log: Success: 請問這款藍色的短袖T恤還有貨嗎？
+[2025-01-23 11:48:49] Log: {'context': ['如何查詢商品庫存', '熱門商品與服務', 'JTCG的品牌故事', '如何聯繫客服團隊', '最新活動與優惠'], 'score': {'query_faq_revelance': 0.6, 'query_response_relevance': 0.8, 'query_should_answer_or_not': 1.0}, 'input_token': 1676, 'cache_token': 1408, 'out_token': 69}
+[2025-01-23 11:48:50] Log: Start 如果今天下單，什麼時候可以收到商品？
+[2025-01-23 11:48:51] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:48:51] Log: Success: 如果今天下單，什麼時候可以收到商品？
+[2025-01-23 11:48:51] Log: {'context': ['配送方式有哪些？', '如何追蹤訂包裹狀態？', '可以指定送達時間嗎？', '商品可以自取嗎？', '若商品延遲送達該怎麼辦？'], 'score': {'query_faq_revelance': 0.8, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1408, 'out_token': 80}
+[2025-01-23 11:48:52] Log: Start 我購買的商品不滿意，請問如何退貨？
+[2025-01-23 11:48:55] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:48:55] Log: Success: 我購買的商品不滿意，請問如何退貨？
+[2025-01-23 11:48:55] Log: {'context': ['JTCG的退換貨政策', '如何聯繫客服團隊', '退貨的運費如何計算？', '退貨需要多長時間處理？', '可以更換商品嗎？'], 'score': {'query_faq_revelance': 0.9, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 1673, 'cache_token': 0, 'out_token': 77}
+[2025-01-23 11:48:56] Log: Start 可以用信用卡支付嗎？支持分期付款嗎？
+[2025-01-23 11:48:58] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:48:58] Log: Success: 可以用信用卡支付嗎？支持分期付款嗎？
+[2025-01-23 11:48:58] Log: {'context': ['支付方式有哪些選擇', '如何使用信用卡支付', '支持的分期付款選項', '支付過程中遇到問題怎麼辦', '付款成功後可以獲得確認通知嗎'], 'score': {'query_faq_revelance': 0.2, 'query_response_relevance': 0.9, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1408, 'out_token': 78}
+[2025-01-23 11:48:59] Log: Start 現在有什麼優惠活動嗎？可以介紹一下嗎？
+[2025-01-23 11:49:01] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:49:01] Log: Success: 現在有什麼優惠活動嗎？可以介紹一下嗎？
+[2025-01-23 11:49:01] Log: {'context': ['最新活動與優惠', '熱門商品與服務', '如何取得優惠券', 'JTCG的品牌故事', '如何聯繫客服團隊'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1408, 'out_token': 63}
+[2025-01-23 11:49:02] Log: Start 請再幫我生成一張apple的照片
+[2025-01-23 11:49:06] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:49:06] Log: Success: 請再幫我生成一張apple的照片
+[2025-01-23 11:49:06] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.1, 'query_response_relevance': 0.2, 'query_should_answer_or_not': 0.0}, 'input_token': 2561, 'cache_token': 2432, 'out_token': 69}
+[2025-01-23 11:49:07] Log: Start How to write javaScript function?
+[2025-01-23 11:49:08] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:49:08] Log: Success: How to write javaScript function?
+[2025-01-23 11:49:08] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1945, 'cache_token': 1408, 'out_token': 65}
+[2025-01-23 11:49:09] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-23 11:49:11] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:49:11] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-23 11:49:11] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1782, 'cache_token': 1408, 'out_token': 69}
+[2025-01-23 11:49:12] Log: Start 請再給我一份包含h2的
+[2025-01-23 11:49:14] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:49:14] Log: Success: 請再給我一份包含h2的
+[2025-01-23 11:49:14] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1790, 'cache_token': 0, 'out_token': 71}
+[2025-01-23 11:49:15] Log: Start Can you provide another example of a poem with a focus on love?
+[2025-01-23 11:49:17] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:49:17] Log: Success: Can you provide another example of a poem with a focus on love?
+[2025-01-23 11:49:17] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1785, 'cache_token': 1664, 'out_token': 69}
+[2025-01-23 11:49:18] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-23 11:49:22] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:49:22] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-23 11:49:22] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1816, 'cache_token': 1664, 'out_token': 95}
+[2025-01-23 11:49:23] Log: Start JTCG Shop 還有哪些缺點？
+[2025-01-23 11:49:25] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:49:25] Log: Success: JTCG Shop 還有哪些缺點？
+[2025-01-23 11:49:25] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.1, 'query_response_relevance': 0.1, 'query_should_answer_or_not': 0.1}, 'input_token': 1752, 'cache_token': 1408, 'out_token': 71}
+[2025-01-23 11:49:26] Log: Start 
+[2025-01-23 11:49:27] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:49:27] Log: Success: 
+[2025-01-23 11:49:27] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 0.5, 'query_should_answer_or_not': 0.5}, 'input_token': 1684, 'cache_token': 1408, 'out_token': 71}
+[2025-01-23 11:49:28] Log: Start weurjksdf098werjsdf?
+[2025-01-23 11:49:30] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:49:30] Log: Success: weurjksdf098werjsdf?
+[2025-01-23 11:49:30] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1739, 'cache_token': 1408, 'out_token': 65}
+[2025-01-23 11:49:31] Log: Start 請幫我推薦一件商品
+[2025-01-23 11:49:34] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:49:34] Log: Success: 請幫我推薦一件商品
+[2025-01-23 11:49:34] Log: {'context': ['守護天使24HRS無憂成長內衣 _(青春期款)', '約會必備超彈一字領上衣', 'Happy Holiday秋冬拉絨上衣', '雙色印花斜肩長Tee', '24HRS x LIP INTIMATE CARE專寵自我私密保養禮盒'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 1763, 'cache_token': 1536, 'out_token': 108}
+[2025-01-23 11:49:35] Log: Start 請問這款藍色的短袖T恤還有貨嗎？
+[2025-01-23 11:49:36] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:49:36] Log: Success: 請問這款藍色的短袖T恤還有貨嗎？
+[2025-01-23 11:49:36] Log: {'context': ['查看庫存狀態', '熱門商品與服務', '如何聯繫客服團隊', 'JTCG的退換貨政策', '最新活動與優惠'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 0.8, 'query_should_answer_or_not': 1.0}, 'input_token': 1676, 'cache_token': 1408, 'out_token': 69}
+[2025-01-23 11:49:37] Log: Start 如果今天下單，什麼時候可以收到商品？
+[2025-01-23 11:49:39] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:49:39] Log: Success: 如果今天下單，什麼時候可以收到商品？
+[2025-01-23 11:49:39] Log: {'context': ['配送時間選擇與說明', '如何追蹤訂單狀態', '商品預計到達時間', '是否提供加急配送服務', '訂單確認後多久會發貨'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1536, 'out_token': 75}
+[2025-01-23 11:49:40] Log: Start 我購買的商品不滿意，請問如何退貨？
+[2025-01-23 11:49:43] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:49:43] Log: Success: 我購買的商品不滿意，請問如何退貨？
+[2025-01-23 11:49:43] Log: {'context': ['JTCG的退換貨政策', '如何聯繫客服團隊', '退換貨的運費如何計算', '退換貨流程需準備哪些文件', '退換貨需要多少時間'], 'score': {'query_faq_revelance': 0.8, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 1673, 'cache_token': 1536, 'out_token': 77}
+[2025-01-23 11:49:44] Log: Start 可以用信用卡支付嗎？支持分期付款嗎？
+[2025-01-23 11:49:46] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:49:46] Log: Success: 可以用信用卡支付嗎？支持分期付款嗎？
+[2025-01-23 11:49:46] Log: {'context': ['JTCG的支付方式', '信用卡支付的詳細資訊', '分期付款的選項', '支付安全性保障', '如何使用信用卡獲取優惠'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1536, 'out_token': 66}
+[2025-01-23 11:49:47] Log: Start 現在有什麼優惠活動嗎？可以介紹一下嗎？
+[2025-01-23 11:49:49] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:49:49] Log: Success: 現在有什麼優惠活動嗎？可以介紹一下嗎？
+[2025-01-23 11:49:49] Log: {'context': ['最新活動與優惠', '熱門商品與服務', '如何取得優惠券', 'JTCG的品牌故事', '如何聯繫客服團隊'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1408, 'out_token': 61}
+[2025-01-23 11:49:50] Log: Start 請再幫我生成一張apple的照片
+[2025-01-23 11:49:54] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:49:54] Log: Success: 請再幫我生成一張apple的照片
+[2025-01-23 11:49:54] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.2, 'query_should_answer_or_not': 0.0}, 'input_token': 2561, 'cache_token': 0, 'out_token': 71}
+[2025-01-23 11:49:55] Log: Start How to write javaScript function?
+[2025-01-23 11:49:57] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:49:57] Log: Success: How to write javaScript function?
+[2025-01-23 11:49:57] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1945, 'cache_token': 1408, 'out_token': 95}
+[2025-01-23 11:49:58] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-23 11:49:59] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:49:59] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-23 11:49:59] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1782, 'cache_token': 1408, 'out_token': 69}
+[2025-01-23 11:50:00] Log: Start 請再給我一份包含h2的
+[2025-01-23 11:50:01] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:50:01] Log: Success: 請再給我一份包含h2的
+[2025-01-23 11:50:01] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1790, 'cache_token': 1408, 'out_token': 65}
+[2025-01-23 11:50:02] Log: Start Can you provide another example of a poem with a focus on love?
+[2025-01-23 11:50:05] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:50:05] Log: Success: Can you provide another example of a poem with a focus on love?
+[2025-01-23 11:50:05] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1785, 'cache_token': 1408, 'out_token': 65}
+[2025-01-23 11:50:06] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-23 11:50:09] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:50:09] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-23 11:50:09] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1816, 'cache_token': 1408, 'out_token': 75}
+[2025-01-23 11:50:10] Log: Start JTCG Shop 還有哪些缺點？
+[2025-01-23 11:50:11] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:50:11] Log: Success: JTCG Shop 還有哪些缺點？
+[2025-01-23 11:50:11] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1752, 'cache_token': 1536, 'out_token': 65}
+[2025-01-23 11:50:12] Log: Start 
+[2025-01-23 11:50:18] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:50:18] Log: Success: 
+[2025-01-23 11:50:18] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1684, 'cache_token': 1536, 'out_token': 65}
+[2025-01-23 11:50:19] Log: Start weurjksdf098werjsdf?
+[2025-01-23 11:50:21] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:50:21] Log: Success: weurjksdf098werjsdf?
+[2025-01-23 11:50:21] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1739, 'cache_token': 1536, 'out_token': 65}
+[2025-01-23 11:50:22] Log: Start 請幫我推薦一件商品
+[2025-01-23 11:50:24] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:50:24] Log: Success: 請幫我推薦一件商品
+[2025-01-23 11:50:24] Log: {'context': ['守護天使24HRS無憂成長內衣 _(青春期款)', '約會必備超彈一字領上衣', 'Happy Holiday秋冬拉絨上衣', '雙色印花斜肩長Tee', '24HRS x LIP INTIMATE CARE專寵自我私密保養禮盒'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 1763, 'cache_token': 0, 'out_token': 107}
+[2025-01-23 11:50:25] Log: Start 請問這款藍色的短袖T恤還有貨嗎？
+[2025-01-23 11:50:27] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:50:27] Log: Success: 請問這款藍色的短袖T恤還有貨嗎？
+[2025-01-23 11:50:27] Log: {'context': ['查看藍色短袖T恤的庫存情況', '了解其他顏色的短袖T恤選擇', '詢問藍色短袖T恤的尺寸選擇', '查看藍色短袖T恤的材質資訊', '了解藍色短袖T恤的價格與優惠'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 0.8, 'query_should_answer_or_not': 1.0}, 'input_token': 1676, 'cache_token': 1536, 'out_token': 109}
+[2025-01-23 11:50:28] Log: Start 如果今天下單，什麼時候可以收到商品？
+[2025-01-23 11:50:30] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:50:30] Log: Success: 如果今天下單，什麼時候可以收到商品？
+[2025-01-23 11:50:30] Log: {'context': ['配送方式和時間表', '如何追蹤訂包裹狀態', '可否指定送貨日期', '加快配送的選項', '商品寄出前的取消或修改'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 0.9, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1408, 'out_token': 78}
+[2025-01-23 11:50:31] Log: Start 我購買的商品不滿意，請問如何退貨？
+[2025-01-23 11:50:33] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:50:33] Log: Success: 我購買的商品不滿意，請問如何退貨？
+[2025-01-23 11:50:33] Log: {'context': ['如何處理不滿意的商品？', '退換貨的流程是什麼？', '退貨需要準備哪些文件？', '退貨的時間限制是多久？', '退貨後的退款方式與時間'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 1673, 'cache_token': 1536, 'out_token': 78}
+[2025-01-23 11:50:34] Log: Start 可以用信用卡支付嗎？支持分期付款嗎？
+[2025-01-23 11:50:36] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:50:36] Log: Success: 可以用信用卡支付嗎？支持分期付款嗎？
+[2025-01-23 11:50:36] Log: {'context': ['支付方式相關問題', '支援的付款方式列表', '信用卡支付的手續費', '分期付款的最低金額', '分期付款的手續費'], 'score': {'query_faq_revelance': 0.8, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1408, 'out_token': 69}
+[2025-01-23 11:50:37] Log: Start 現在有什麼優惠活動嗎？可以介紹一下嗎？
+[2025-01-23 11:50:39] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:50:39] Log: Success: 現在有什麼優惠活動嗎？可以介紹一下嗎？
+[2025-01-23 11:50:39] Log: {'context': ['最新活動與優惠', '熱門商品與服務', '如何取得優惠券', 'JTCG的品牌故事', '如何聯繫客服團隊'], 'score': {'query_faq_revelance': 0.8, 'query_response_relevance': 0.9, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1408, 'out_token': 65}
+[2025-01-23 11:50:40] Log: Start 請再幫我生成一張apple的照片
+[2025-01-23 11:50:43] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:50:43] Log: Success: 請再幫我生成一張apple的照片
+[2025-01-23 11:50:43] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.1, 'query_response_relevance': 0.2, 'query_should_answer_or_not': 0.1}, 'input_token': 2561, 'cache_token': 0, 'out_token': 71}
+[2025-01-23 11:50:44] Log: Start How to write javaScript function?
+[2025-01-23 11:50:47] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:50:47] Log: Success: How to write javaScript function?
+[2025-01-23 11:50:47] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1945, 'cache_token': 1408, 'out_token': 94}
+[2025-01-23 11:50:48] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-23 11:50:49] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:50:49] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-23 11:50:49] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1782, 'cache_token': 1664, 'out_token': 65}
+[2025-01-23 11:50:50] Log: Start 請再給我一份包含h2的
+[2025-01-23 11:50:52] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:50:52] Log: Success: 請再給我一份包含h2的
+[2025-01-23 11:50:52] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1790, 'cache_token': 1408, 'out_token': 65}
+[2025-01-23 11:50:53] Log: Start Can you provide another example of a poem with a focus on love?
+[2025-01-23 11:50:55] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:50:55] Log: Success: Can you provide another example of a poem with a focus on love?
+[2025-01-23 11:50:55] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1785, 'cache_token': 1408, 'out_token': 75}
+[2025-01-23 11:50:56] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-23 11:50:58] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:50:58] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-23 11:50:58] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1816, 'cache_token': 1664, 'out_token': 94}
+[2025-01-23 11:50:59] Log: Start JTCG Shop 還有哪些缺點？
+[2025-01-23 11:51:01] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:51:01] Log: Success: JTCG Shop 還有哪些缺點？
+[2025-01-23 11:51:01] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1752, 'cache_token': 1536, 'out_token': 65}
+[2025-01-23 11:51:02] Log: Start 
+[2025-01-23 11:51:04] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:51:04] Log: Success: 
+[2025-01-23 11:51:04] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.1, 'query_response_relevance': 0.1, 'query_should_answer_or_not': 0.1}, 'input_token': 1684, 'cache_token': 1536, 'out_token': 71}
+[2025-01-23 11:51:05] Log: Start weurjksdf098werjsdf?
+[2025-01-23 11:51:06] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:51:06] Log: Success: weurjksdf098werjsdf?
+[2025-01-23 11:51:06] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.1, 'query_response_relevance': 0.1, 'query_should_answer_or_not': 0.1}, 'input_token': 1739, 'cache_token': 1536, 'out_token': 71}
+[2025-01-23 11:51:07] Log: Start 請幫我推薦一件商品
+[2025-01-23 11:51:11] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:51:11] Log: Success: 請幫我推薦一件商品
+[2025-01-23 11:51:11] Log: {'context': ['守護天使24HRS無憂成長內衣 _(青春期款)', '約會必備超彈一字領上衣', 'Happy Holiday秋冬拉絨上衣', '24HRS x LIP INTIMATE CARE專寵自我私密保養禮盒', '年末Party必備舒適顯瘦連身裙'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 1763, 'cache_token': 1536, 'out_token': 139}
+[2025-01-23 11:51:12] Log: Start 請問這款藍色的短袖T恤還有貨嗎？
+[2025-01-23 11:51:14] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:51:14] Log: Success: 請問這款藍色的短袖T恤還有貨嗎？
+[2025-01-23 11:51:14] Log: {'context': ['查詢商品庫存情況', '查看其他顏色或款式的T恤', '了解商品的材質和尺寸信息', '如何訂購商品', 'JTCG的品牌故事'], 'score': {'query_faq_revelance': 0.6, 'query_response_relevance': 0.8, 'query_should_answer_or_not': 1.0}, 'input_token': 1676, 'cache_token': 1408, 'out_token': 79}
+[2025-01-23 11:51:15] Log: Start 如果今天下單，什麼時候可以收到商品？
+[2025-01-23 11:51:16] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:51:16] Log: Success: 如果今天下單，什麼時候可以收到商品？
+[2025-01-23 11:51:16] Log: {'context': ['配送方式有哪些選擇', '如何查詢訂單進度', '有沒有加急配送服務', '商品出貨需要多長時間', '如何修改收貨地址'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1408, 'out_token': 69}
+[2025-01-23 11:51:17] Log: Start 我購買的商品不滿意，請問如何退貨？
+[2025-01-23 11:51:19] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:51:19] Log: Success: 我購買的商品不滿意，請問如何退貨？
+[2025-01-23 11:51:19] Log: {'context': ['JTCG的退換貨政策', '如何聯繫客服團隊', '退貨流程的詳細步驟', '退貨需要注意的事項', '退換貨的時間限制'], 'score': {'query_faq_revelance': 0.8, 'query_response_relevance': 0.9, 'query_should_answer_or_not': 1.0}, 'input_token': 1673, 'cache_token': 1408, 'out_token': 77}
+[2025-01-23 11:51:20] Log: Start 可以用信用卡支付嗎？支持分期付款嗎？
+[2025-01-23 11:51:23] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:51:23] Log: Success: 可以用信用卡支付嗎？支持分期付款嗎？
+[2025-01-23 11:51:23] Log: {'context': ['支付方式有哪些', '支持哪些信用卡', '分期付款的條件是什麼', '如何查看信用卡支付紀錄', '有無分期付款的手續費'], 'score': {'query_faq_revelance': 0.6, 'query_response_relevance': 0.9, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1536, 'out_token': 74}
+[2025-01-23 11:51:24] Log: Start 現在有什麼優惠活動嗎？可以介紹一下嗎？
+[2025-01-23 11:51:28] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:51:28] Log: Success: 現在有什麼優惠活動嗎？可以介紹一下嗎？
+[2025-01-23 11:51:28] Log: {'context': ['最新活動與優惠', '如何取得優惠券', '熱門商品與服務', 'JTCG的品牌故事', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1536, 'out_token': 64}
+[2025-01-23 11:51:29] Log: Start 請再幫我生成一張apple的照片
+[2025-01-23 11:51:33] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:51:33] Log: Success: 請再幫我生成一張apple的照片
+[2025-01-23 11:51:33] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 2561, 'cache_token': 0, 'out_token': 65}
+[2025-01-23 11:51:34] Log: Start How to write javaScript function?
+[2025-01-23 11:51:37] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:51:37] Log: Success: How to write javaScript function?
+[2025-01-23 11:51:37] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1945, 'cache_token': 1792, 'out_token': 65}
+[2025-01-23 11:51:38] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-23 11:51:40] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:51:40] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-23 11:51:40] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1782, 'cache_token': 0, 'out_token': 69}
+[2025-01-23 11:51:41] Log: Start 請再給我一份包含h2的
+[2025-01-23 11:51:42] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:51:42] Log: Success: 請再給我一份包含h2的
+[2025-01-23 11:51:42] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1790, 'cache_token': 1664, 'out_token': 65}
+[2025-01-23 11:51:43] Log: Start Can you provide another example of a poem with a focus on love?
+[2025-01-23 11:51:45] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:51:45] Log: Success: Can you provide another example of a poem with a focus on love?
+[2025-01-23 11:51:45] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1785, 'cache_token': 1664, 'out_token': 65}
+[2025-01-23 11:51:46] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-23 11:51:48] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:51:48] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-23 11:51:48] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.1, 'query_should_answer_or_not': 0.0}, 'input_token': 1816, 'cache_token': 1408, 'out_token': 71}
+[2025-01-23 11:51:49] Log: Start JTCG Shop 還有哪些缺點？
+[2025-01-23 11:51:50] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:51:50] Log: Success: JTCG Shop 還有哪些缺點？
+[2025-01-23 11:51:50] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1752, 'cache_token': 1408, 'out_token': 65}
+[2025-01-23 11:51:51] Log: Start 
+[2025-01-23 11:51:54] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:51:54] Log: Success: 
+[2025-01-23 11:51:54] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1684, 'cache_token': 1408, 'out_token': 65}
+[2025-01-23 11:51:55] Log: Start weurjksdf098werjsdf?
+[2025-01-23 11:51:57] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:51:57] Log: Success: weurjksdf098werjsdf?
+[2025-01-23 11:51:57] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1739, 'cache_token': 1536, 'out_token': 65}
+[2025-01-23 11:51:58] Log: Start 請幫我推薦一件商品
+[2025-01-23 11:52:00] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:52:00] Log: Success: 請幫我推薦一件商品
+[2025-01-23 11:52:00] Log: {'context': ['守護天使24HRS無憂成長內衣 _(青春期款)', '約會必備超彈一字領上衣', 'Happy Holiday秋冬拉絨上衣', '雙色印花斜肩長Tee', '24HRS x LIP INTIMATE CARE專寵自我私密保養禮盒'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 1763, 'cache_token': 1536, 'out_token': 109}
+[2025-01-23 11:52:01] Log: Start 請問這款藍色的短袖T恤還有貨嗎？
+[2025-01-23 11:52:03] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:52:03] Log: Success: 請問這款藍色的短袖T恤還有貨嗎？
+[2025-01-23 11:52:03] Log: {'context': ['商品庫存查詢及預訂', '如何查看商品尺寸及材質', '熱門商品與服務', '如何取得優惠券', '聯繫客服查詢商品詳情'], 'score': {'query_faq_revelance': 0.3, 'query_response_relevance': 0.9, 'query_should_answer_or_not': 1.0}, 'input_token': 1676, 'cache_token': 1536, 'out_token': 72}
+[2025-01-23 11:52:04] Log: Start 如果今天下單，什麼時候可以收到商品？
+[2025-01-23 11:52:06] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:52:06] Log: Success: 如果今天下單，什麼時候可以收到商品？
+[2025-01-23 11:52:06] Log: {'context': ['查詢配送時間和方式', '查看訂單處理進度', '了解訂單追蹤方法', '了解快速運送的選項', '查詢商品庫存狀態'], 'score': {'query_faq_revelance': 0.8, 'query_response_relevance': 0.9, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1408, 'out_token': 77}
+[2025-01-23 11:52:07] Log: Start 我購買的商品不滿意，請問如何退貨？
+[2025-01-23 11:52:09] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:52:09] Log: Success: 我購買的商品不滿意，請問如何退貨？
+[2025-01-23 11:52:09] Log: {'context': ['JTCG的退換貨政策', '如何聯繫客服團隊', '退貨的步驟和流程', '退貨是否需要支付運費', '退貨後多久可以收到退款'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 1673, 'cache_token': 1408, 'out_token': 75}
+[2025-01-23 11:52:10] Log: Start 可以用信用卡支付嗎？支持分期付款嗎？
+[2025-01-23 11:52:12] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:52:12] Log: Success: 可以用信用卡支付嗎？支持分期付款嗎？
+[2025-01-23 11:52:12] Log: {'context': ['支付方式及分期付款選項', '支持的信用卡類型', '如何申請分期付款', '付款過程中的常見問題', '確認訂單付款狀態'], 'score': {'query_faq_revelance': 0.6, 'query_response_relevance': 0.9, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1536, 'out_token': 74}
+[2025-01-23 11:52:13] Log: Start 現在有什麼優惠活動嗎？可以介紹一下嗎？
+[2025-01-23 11:52:15] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:52:15] Log: Success: 現在有什麼優惠活動嗎？可以介紹一下嗎？
+[2025-01-23 11:52:15] Log: {'context': ['最新活動與優惠', '熱門商品與服務', '如何取得優惠券', 'JTCG的品牌故事', '如何聯繫客服團隊'], 'score': {'query_faq_revelance': 0.6, 'query_response_relevance': 0.8, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1536, 'out_token': 65}
+[2025-01-23 11:52:16] Log: Start 請再幫我生成一張apple的照片
+[2025-01-23 11:52:21] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:52:21] Log: Success: 請再幫我生成一張apple的照片
+[2025-01-23 11:52:21] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.1, 'query_response_relevance': 0.2, 'query_should_answer_or_not': 0.0}, 'input_token': 2561, 'cache_token': 2432, 'out_token': 71}
+[2025-01-23 11:52:22] Log: Start How to write javaScript function?
+[2025-01-23 11:52:23] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:52:23] Log: Success: How to write javaScript function?
+[2025-01-23 11:52:23] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1945, 'cache_token': 1792, 'out_token': 65}
+[2025-01-23 11:52:25] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-23 11:52:27] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:52:27] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-23 11:52:27] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1782, 'cache_token': 1664, 'out_token': 69}
+[2025-01-23 11:52:28] Log: Start 請再給我一份包含h2的
+[2025-01-23 11:52:29] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:52:29] Log: Success: 請再給我一份包含h2的
+[2025-01-23 11:52:29] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1790, 'cache_token': 1664, 'out_token': 65}
+[2025-01-23 11:52:30] Log: Start Can you provide another example of a poem with a focus on love?
+[2025-01-23 11:52:32] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:52:32] Log: Success: Can you provide another example of a poem with a focus on love?
+[2025-01-23 11:52:32] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1785, 'cache_token': 1664, 'out_token': 75}
+[2025-01-23 11:52:33] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-23 11:52:35] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:52:35] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-23 11:52:35] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1816, 'cache_token': 1664, 'out_token': 71}
+[2025-01-23 11:52:36] Log: Start JTCG Shop 還有哪些缺點？
+[2025-01-23 11:52:40] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:52:40] Log: Success: JTCG Shop 還有哪些缺點？
+[2025-01-23 11:52:40] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.1, 'query_response_relevance': 0.2, 'query_should_answer_or_not': 0.1}, 'input_token': 1752, 'cache_token': 1536, 'out_token': 71}
+[2025-01-23 11:52:41] Log: Start 
+[2025-01-23 11:52:43] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:52:43] Log: Success: 
+[2025-01-23 11:52:43] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1684, 'cache_token': 1536, 'out_token': 65}
+[2025-01-23 11:52:44] Log: Start weurjksdf098werjsdf?
+[2025-01-23 11:52:46] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:52:46] Log: Success: weurjksdf098werjsdf?
+[2025-01-23 11:52:46] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1739, 'cache_token': 1536, 'out_token': 65}
+[2025-01-23 11:52:47] Log: Start 請幫我推薦一件商品
+[2025-01-23 11:52:50] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:52:50] Log: Success: 請幫我推薦一件商品
+[2025-01-23 11:52:50] Log: {'context': ['守護天使24HRS無憂成長內衣 _(青春期款)', '約會必備超彈一字領上衣', 'Happy Holiday秋冬拉絨上衣', '雙色印花斜肩長Tee', '24HRS x LIP INTIMATE CARE專寵自我私密保養禮盒'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.9, 'query_should_answer_or_not': 1.0}, 'input_token': 1763, 'cache_token': 1536, 'out_token': 109}
+[2025-01-23 11:52:51] Log: Start 請問這款藍色的短袖T恤還有貨嗎？
+[2025-01-23 11:52:53] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:52:53] Log: Success: 請問這款藍色的短袖T恤還有貨嗎？
+[2025-01-23 11:52:53] Log: {'context': ['查詢商品庫存狀況', '如何購買熱門商品', '瀏覽藍色短袖T恤的其他顏色或款式', '了解商品尺寸資訊', '商品送達需要多少時間'], 'score': {'query_faq_revelance': 0.3, 'query_response_relevance': 0.9, 'query_should_answer_or_not': 1.0}, 'input_token': 1676, 'cache_token': 1536, 'out_token': 83}
+[2025-01-23 11:52:54] Log: Start 如果今天下單，什麼時候可以收到商品？
+[2025-01-23 11:52:55] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:52:55] Log: Success: 如果今天下單，什麼時候可以收到商品？
+[2025-01-23 11:52:55] Log: {'context': ['配送方式與時間', '如何查詢訂單狀態', '急件處理選項', '配送延遲的處理方式', '聯繫客服了解更多配送資訊'], 'score': {'query_faq_revelance': 0.8, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1536, 'out_token': 72}
+[2025-01-23 11:52:56] Log: Start 我購買的商品不滿意，請問如何退貨？
+[2025-01-23 11:52:59] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:52:59] Log: Success: 我購買的商品不滿意，請問如何退貨？
+[2025-01-23 11:52:59] Log: {'context': ['JTCG的退換貨政策', '如何聯繫客服團隊', '退換貨的步驟說明', '退貨需要支付的運費', '退貨處理時間'], 'score': {'query_faq_revelance': 0.8, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 1673, 'cache_token': 1536, 'out_token': 74}
+[2025-01-23 11:53:00] Log: Start 可以用信用卡支付嗎？支持分期付款嗎？
+[2025-01-23 11:53:02] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:53:02] Log: Success: 可以用信用卡支付嗎？支持分期付款嗎？
+[2025-01-23 11:53:02] Log: {'context': ['付款方式有哪些？', '如何使用信用卡支付？', '信用卡分期付款的條件是什麼？', '可否使用多種付款方式？', '如何確認支付成功？'], 'score': {'query_faq_revelance': 0.6, 'query_response_relevance': 0.9, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1536, 'out_token': 77}
+[2025-01-23 11:53:03] Log: Start 現在有什麼優惠活動嗎？可以介紹一下嗎？
+[2025-01-23 11:53:05] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:53:05] Log: Success: 現在有什麼優惠活動嗎？可以介紹一下嗎？
+[2025-01-23 11:53:05] Log: {'context': ['最新活動與優惠', '如何取得優惠券', '熱門商品與服務', 'JTCG的品牌故事', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.7, 'query_response_relevance': 0.9, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1536, 'out_token': 68}
+[2025-01-23 11:53:06] Log: Start 請再幫我生成一張apple的照片
+[2025-01-23 11:53:10] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:53:10] Log: Success: 請再幫我生成一張apple的照片
+[2025-01-23 11:53:10] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.1, 'query_response_relevance': 0.2, 'query_should_answer_or_not': 0.1}, 'input_token': 2469, 'cache_token': 2432, 'out_token': 70}
+[2025-01-23 11:53:11] Log: Start How to write javaScript function?
+[2025-01-23 11:53:13] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:53:13] Log: Success: How to write javaScript function?
+[2025-01-23 11:53:13] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1945, 'cache_token': 1792, 'out_token': 71}
+[2025-01-23 11:53:14] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-23 11:53:15] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:53:15] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-23 11:53:15] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1782, 'cache_token': 1664, 'out_token': 71}
+[2025-01-23 11:53:16] Log: Start 請再給我一份包含h2的
+[2025-01-23 11:53:18] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:53:18] Log: Success: 請再給我一份包含h2的
+[2025-01-23 11:53:18] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1790, 'cache_token': 1664, 'out_token': 65}
+[2025-01-23 11:53:19] Log: Start Can you provide another example of a poem with a focus on love?
+[2025-01-23 11:53:21] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:53:21] Log: Success: Can you provide another example of a poem with a focus on love?
+[2025-01-23 11:53:21] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1785, 'cache_token': 1664, 'out_token': 69}
+[2025-01-23 11:53:22] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-23 11:53:23] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:53:23] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-23 11:53:23] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.2, 'query_should_answer_or_not': 0.0}, 'input_token': 1816, 'cache_token': 1664, 'out_token': 71}
+[2025-01-23 11:53:24] Log: Start JTCG Shop 還有哪些缺點？
+[2025-01-23 11:53:26] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:53:26] Log: Success: JTCG Shop 還有哪些缺點？
+[2025-01-23 11:53:26] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.1, 'query_response_relevance': 0.1, 'query_should_answer_or_not': 0.1}, 'input_token': 1752, 'cache_token': 1536, 'out_token': 71}
+[2025-01-23 11:53:27] Log: Start 
+[2025-01-23 11:53:29] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:53:29] Log: Success: 
+[2025-01-23 11:53:29] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.3, 'query_response_relevance': 0.3, 'query_should_answer_or_not': 0.3}, 'input_token': 1684, 'cache_token': 1536, 'out_token': 71}
+[2025-01-23 11:53:30] Log: Start weurjksdf098werjsdf?
+[2025-01-23 11:53:32] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:53:32] Log: Success: weurjksdf098werjsdf?
+[2025-01-23 11:53:32] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1739, 'cache_token': 1536, 'out_token': 65}
+[2025-01-23 11:53:33] Log: Start 請幫我推薦一件商品
+[2025-01-23 11:53:35] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:53:35] Log: Success: 請幫我推薦一件商品
+[2025-01-23 11:53:35] Log: {'context': ['守護天使24HRS無憂成長內衣 _(青春期款)', '約會必備超彈一字領上衣', 'Happy Holiday秋冬拉絨上衣', '雙色印花斜肩長Tee', '24HRS x LIP INTIMATE CARE專寵自我私密保養禮盒'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 1763, 'cache_token': 1536, 'out_token': 107}
+[2025-01-23 11:53:36] Log: Start 請問這款藍色的短袖T恤還有貨嗎？
+[2025-01-23 11:53:38] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:53:38] Log: Success: 請問這款藍色的短袖T恤還有貨嗎？
+[2025-01-23 11:53:38] Log: {'context': ['查詢商品庫存狀態', '如何購買商品', '商品的尺寸和顏色選擇', '商品的材質和洗滌說明', '查詢其他顏色或款式的T恤'], 'score': {'query_faq_revelance': 0.7, 'query_response_relevance': 0.9, 'query_should_answer_or_not': 1.0}, 'input_token': 1676, 'cache_token': 1536, 'out_token': 87}
+[2025-01-23 11:53:39] Log: Start 如果今天下單，什麼時候可以收到商品？
+[2025-01-23 11:53:41] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:53:41] Log: Success: 如果今天下單，什麼時候可以收到商品？
+[2025-01-23 11:53:41] Log: {'context': ['配送方式有哪些？', '如何查詢訂單狀態？', '可以指定送貨時間嗎？', '配送費用如何計算？', '商品延遲到貨該如何處理？'], 'score': {'query_faq_revelance': 0.6, 'query_response_relevance': 0.9, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1408, 'out_token': 81}
+[2025-01-23 11:53:42] Log: Start 我購買的商品不滿意，請問如何退貨？
+[2025-01-23 11:53:43] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:53:43] Log: Success: 我購買的商品不滿意，請問如何退貨？
+[2025-01-23 11:53:43] Log: {'context': ['JTCG的退換貨政策', '如何聯繫客服團隊', '退貨的具體流程', '退貨的費用如何計算', '退貨後多久可以收到退款'], 'score': {'query_faq_revelance': 1.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 1673, 'cache_token': 1536, 'out_token': 72}
+[2025-01-23 11:53:44] Log: Start 可以用信用卡支付嗎？支持分期付款嗎？
+[2025-01-23 11:53:45] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:53:45] Retrying request to /chat/completions in 0.394000 seconds
+[2025-01-23 11:53:47] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:53:47] Log: Success: 可以用信用卡支付嗎？支持分期付款嗎？
+[2025-01-23 11:53:47] Log: {'context': ['支付方式有哪些？', '如何使用信用卡支付？', '分期付款的條件是什麼？', '是否支持其他支付方式？', '如何查看支付狀態？'], 'score': {'query_faq_revelance': 0.7, 'query_response_relevance': 0.9, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1536, 'out_token': 75}
+[2025-01-23 11:53:48] Log: Start 現在有什麼優惠活動嗎？可以介紹一下嗎？
+[2025-01-23 11:53:49] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:53:49] Retrying request to /chat/completions in 0.216000 seconds
+[2025-01-23 11:53:51] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:53:52] Log: Success: 現在有什麼優惠活動嗎？可以介紹一下嗎？
+[2025-01-23 11:53:52] Log: {'context': ['最新活動與優惠', '熱門商品與服務', '如何取得優惠券', '如何成為會員', 'JTCG的品牌故事'], 'score': {'query_faq_revelance': 0.7, 'query_response_relevance': 0.8, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1536, 'out_token': 64}
+[2025-01-23 11:53:53] Log: Start 請再幫我生成一張apple的照片
+[2025-01-23 11:53:53] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:53:53] Retrying request to /chat/completions in 1.204000 seconds
+[2025-01-23 11:53:58] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:53:58] Log: Success: 請再幫我生成一張apple的照片
+[2025-01-23 11:53:58] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 2561, 'cache_token': 0, 'out_token': 65}
+[2025-01-23 11:53:59] Log: Start How to write javaScript function?
+[2025-01-23 11:54:00] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:54:00] Log: Success: How to write javaScript function?
+[2025-01-23 11:54:00] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1945, 'cache_token': 1792, 'out_token': 65}
+[2025-01-23 11:54:01] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-23 11:54:02] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:54:02] Retrying request to /chat/completions in 0.002000 seconds
+[2025-01-23 11:54:03] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:54:03] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-23 11:54:03] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1782, 'cache_token': 1664, 'out_token': 70}
+[2025-01-23 11:54:04] Log: Start 請再給我一份包含h2的
+[2025-01-23 11:54:04] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:54:04] Retrying request to /chat/completions in 0.930000 seconds
+[2025-01-23 11:54:07] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:54:07] Log: Success: 請再給我一份包含h2的
+[2025-01-23 11:54:07] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1790, 'cache_token': 1664, 'out_token': 65}
+[2025-01-23 11:54:08] Log: Start Can you provide another example of a poem with a focus on love?
+[2025-01-23 11:54:08] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:54:08] Retrying request to /chat/completions in 0.952000 seconds
+[2025-01-23 11:54:11] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:54:11] Log: Success: Can you provide another example of a poem with a focus on love?
+[2025-01-23 11:54:11] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1785, 'cache_token': 1664, 'out_token': 65}
+[2025-01-23 11:54:12] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-23 11:54:12] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:54:12] Retrying request to /chat/completions in 0.982000 seconds
+[2025-01-23 11:54:14] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:54:14] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-23 11:54:14] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1816, 'cache_token': 1664, 'out_token': 65}
+[2025-01-23 11:54:15] Log: Start JTCG Shop 還有哪些缺點？
+[2025-01-23 11:54:16] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:54:16] Retrying request to /chat/completions in 0.994000 seconds
+[2025-01-23 11:54:18] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:54:18] Log: Success: JTCG Shop 還有哪些缺點？
+[2025-01-23 11:54:18] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1752, 'cache_token': 1536, 'out_token': 65}
+[2025-01-23 11:54:19] Log: Start 
+[2025-01-23 11:54:19] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:54:19] Retrying request to /chat/completions in 0.860000 seconds
+[2025-01-23 11:54:22] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:54:22] Log: Success: 
+[2025-01-23 11:54:22] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.1, 'query_response_relevance': 0.1, 'query_should_answer_or_not': 0.1}, 'input_token': 1684, 'cache_token': 1536, 'out_token': 71}
+[2025-01-23 11:54:23] Log: Start weurjksdf098werjsdf?
+[2025-01-23 11:54:23] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:54:23] Retrying request to /chat/completions in 0.538000 seconds
+[2025-01-23 11:54:25] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:54:25] Log: Success: weurjksdf098werjsdf?
+[2025-01-23 11:54:25] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1739, 'cache_token': 1536, 'out_token': 65}
+[2025-01-23 11:54:26] Log: Start 請幫我推薦一件商品
+[2025-01-23 11:54:26] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:54:26] Retrying request to /chat/completions in 0.872000 seconds
+[2025-01-23 11:54:29] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:54:29] Log: Success: 請幫我推薦一件商品
+[2025-01-23 11:54:29] Log: {'context': ['守護天使24HRS無憂成長內衣 _(青春期款)', '約會必備超彈一字領上衣', 'Happy Holiday秋冬拉絨上衣', '雙色印花斜肩長Tee', '24HRS x LIP INTIMATE CARE專寵自我私密保養禮盒'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 1763, 'cache_token': 1408, 'out_token': 109}
+[2025-01-23 11:54:30] Log: Start 請問這款藍色的短袖T恤還有貨嗎？
+[2025-01-23 11:54:30] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:54:30] Retrying request to /chat/completions in 0.592000 seconds
+[2025-01-23 11:54:33] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:54:33] Log: Success: 請問這款藍色的短袖T恤還有貨嗎？
+[2025-01-23 11:54:33] Log: {'context': ['查詢商品庫存狀態', '查看其他顏色或尺寸', '如何預訂缺貨商品', '了解商品詳細資訊', '訂購後的配送時間'], 'score': {'query_faq_revelance': 0.2, 'query_response_relevance': 0.9, 'query_should_answer_or_not': 1.0}, 'input_token': 1676, 'cache_token': 1408, 'out_token': 73}
+[2025-01-23 11:54:34] Log: Start 如果今天下單，什麼時候可以收到商品？
+[2025-01-23 11:54:34] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:54:34] Retrying request to /chat/completions in 0.438000 seconds
+[2025-01-23 11:54:36] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:54:36] Log: Success: 如果今天下單，什麼時候可以收到商品？
+[2025-01-23 11:54:36] Log: {'context': ['配送時間與運費政策', '如何追蹤訂包裹狀態？', '訂單處理時間', '是否提供加急配送服務？', '如何更改配送地址？'], 'score': {'query_faq_revelance': 0.6, 'query_response_relevance': 0.9, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1536, 'out_token': 78}
+[2025-01-23 11:54:37] Log: Start 我購買的商品不滿意，請問如何退貨？
+[2025-01-23 11:54:37] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:54:37] Retrying request to /chat/completions in 0.505000 seconds
+[2025-01-23 11:54:40] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:54:40] Log: Success: 我購買的商品不滿意，請問如何退貨？
+[2025-01-23 11:54:40] Log: {'context': ['JTCG的退換貨政策', '如何聯繫客服團隊', '退換貨的流程是什麼', '商品退貨的條件有哪些', '退貨需要多久時間能完成'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 1673, 'cache_token': 1536, 'out_token': 73}
+[2025-01-23 11:54:41] Log: Start 可以用信用卡支付嗎？支持分期付款嗎？
+[2025-01-23 11:54:41] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:54:41] Retrying request to /chat/completions in 0.588000 seconds
+[2025-01-23 11:54:43] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:54:43] Log: Success: 可以用信用卡支付嗎？支持分期付款嗎？
+[2025-01-23 11:54:43] Log: {'context': ['如何使用信用卡支付', '支持的支付方式有哪些', '分期付款的條件', '信用卡支付的安全性', '如何申請分期付款'], 'score': {'query_faq_revelance': 0.8, 'query_response_relevance': 0.9, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1536, 'out_token': 70}
+[2025-01-23 11:54:44] Log: Start 現在有什麼優惠活動嗎？可以介紹一下嗎？
+[2025-01-23 11:54:44] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:54:44] Retrying request to /chat/completions in 0.610000 seconds
+[2025-01-23 11:54:47] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:54:47] Log: Success: 現在有什麼優惠活動嗎？可以介紹一下嗎？
+[2025-01-23 11:54:47] Log: {'context': ['最新活動與優惠', '熱門商品與服務', 'JTCG的品牌故事', '如何聯繫客服團隊', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1536, 'out_token': 67}
+[2025-01-23 11:54:48] Log: Start 請再幫我生成一張apple的照片
+[2025-01-23 11:54:48] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:54:48] Retrying request to /chat/completions in 1.784000 seconds
+[2025-01-23 11:54:53] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:54:53] Log: Success: 請再幫我生成一張apple的照片
+[2025-01-23 11:54:53] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.1, 'query_response_relevance': 0.2, 'query_should_answer_or_not': 0.0}, 'input_token': 2561, 'cache_token': 2432, 'out_token': 71}
+[2025-01-23 11:54:54] Log: Start How to write javaScript function?
+[2025-01-23 11:54:55] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:54:55] Log: Success: How to write javaScript function?
+[2025-01-23 11:54:55] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1945, 'cache_token': 1792, 'out_token': 65}
+[2025-01-23 11:54:56] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-23 11:54:57] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:54:57] Retrying request to /chat/completions in 1.124000 seconds
+[2025-01-23 11:54:59] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:54:59] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-23 11:54:59] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1782, 'cache_token': 1664, 'out_token': 69}
+[2025-01-23 11:55:00] Log: Start 請再給我一份包含h2的
+[2025-01-23 11:55:01] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:55:01] Retrying request to /chat/completions in 0.854000 seconds
+[2025-01-23 11:55:04] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:55:04] Log: Success: 請再給我一份包含h2的
+[2025-01-23 11:55:04] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1790, 'cache_token': 1664, 'out_token': 100}
+[2025-01-23 11:55:05] Log: Start Can you provide another example of a poem with a focus on love?
+[2025-01-23 11:55:07] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:55:07] Log: Success: Can you provide another example of a poem with a focus on love?
+[2025-01-23 11:55:07] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1785, 'cache_token': 1664, 'out_token': 65}
+[2025-01-23 11:55:08] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-23 11:55:08] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:55:08] Retrying request to /chat/completions in 0.768000 seconds
+[2025-01-23 11:55:11] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:55:11] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-23 11:55:11] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1816, 'cache_token': 1664, 'out_token': 65}
+[2025-01-23 11:55:12] Log: Start JTCG Shop 還有哪些缺點？
+[2025-01-23 11:55:12] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:55:12] Retrying request to /chat/completions in 0.828000 seconds
+[2025-01-23 11:55:14] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:55:14] Log: Success: JTCG Shop 還有哪些缺點？
+[2025-01-23 11:55:14] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.1, 'query_response_relevance': 0.1, 'query_should_answer_or_not': 0.1}, 'input_token': 1752, 'cache_token': 1408, 'out_token': 71}
+[2025-01-23 11:55:15] Log: Start 
+[2025-01-23 11:55:16] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:55:16] Retrying request to /chat/completions in 0.698000 seconds
+[2025-01-23 11:55:21] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:55:21] Log: Success: 
+[2025-01-23 11:55:21] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1684, 'cache_token': 1536, 'out_token': 65}
+[2025-01-23 11:55:22] Log: Start weurjksdf098werjsdf?
+[2025-01-23 11:55:24] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:55:24] Log: Success: weurjksdf098werjsdf?
+[2025-01-23 11:55:24] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.1, 'query_should_answer_or_not': 0.0}, 'input_token': 1739, 'cache_token': 1408, 'out_token': 71}
+[2025-01-23 11:55:25] Log: Start 請幫我推薦一件商品
+[2025-01-23 11:55:27] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:55:27] Log: Success: 請幫我推薦一件商品
+[2025-01-23 11:55:27] Log: {'context': ['守護天使24HRS無憂成長內衣 _(青春期款)', '約會必備超彈一字領上衣', 'Happy Holiday秋冬拉絨上衣', '雙色印花斜肩長Tee', '24HRS x LIP INTIMATE CARE專寵自我私密保養禮盒'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 1763, 'cache_token': 1536, 'out_token': 109}
+[2025-01-23 11:55:28] Log: Start 請問這款藍色的短袖T恤還有貨嗎？
+[2025-01-23 11:55:30] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:55:30] Log: Success: 請問這款藍色的短袖T恤還有貨嗎？
+[2025-01-23 11:55:30] Log: {'context': ['查詢藍色短袖T恤的庫存', '了解熱門商品與服務', '聯繫客服了解更多商品資訊', '查看最新活動與優惠', '了解JTCG的品牌故事'], 'score': {'query_faq_revelance': 0.3, 'query_response_relevance': 0.8, 'query_should_answer_or_not': 1.0}, 'input_token': 1676, 'cache_token': 1536, 'out_token': 78}
+[2025-01-23 11:55:31] Log: Start 如果今天下單，什麼時候可以收到商品？
+[2025-01-23 11:55:33] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:55:33] Log: Success: 如果今天下單，什麼時候可以收到商品？
+[2025-01-23 11:55:33] Log: {'context': ['配送時間的計算方式和影響因素', '如何查看訂單的配送狀態', '能否選擇加急配送服務', '配送方式有哪些選擇', '商品發貨後的追蹤方法'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1536, 'out_token': 81}
+[2025-01-23 11:55:34] Log: Start 我購買的商品不滿意，請問如何退貨？
+[2025-01-23 11:55:34] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:55:34] Retrying request to /chat/completions in 0.082000 seconds
+[2025-01-23 11:55:36] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:55:36] Log: Success: 我購買的商品不滿意，請問如何退貨？
+[2025-01-23 11:55:36] Log: {'context': ['JTCG的退換貨政策', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的品牌故事'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 1673, 'cache_token': 1408, 'out_token': 65}
+[2025-01-23 11:55:37] Log: Start 可以用信用卡支付嗎？支持分期付款嗎？
+[2025-01-23 11:55:37] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:55:37] Retrying request to /chat/completions in 0.776000 seconds
+[2025-01-23 11:55:40] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:55:40] Log: Success: 可以用信用卡支付嗎？支持分期付款嗎？
+[2025-01-23 11:55:40] Log: {'context': ['支付方式', '信用卡付款的流程', '分期付款的條件', '支援的信用卡種類', '如何查詢付款記錄'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1408, 'out_token': 61}
+[2025-01-23 11:55:41] Log: Start 現在有什麼優惠活動嗎？可以介紹一下嗎？
+[2025-01-23 11:55:41] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:55:41] Retrying request to /chat/completions in 0.084000 seconds
+[2025-01-23 11:55:43] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:55:43] Log: Success: 現在有什麼優惠活動嗎？可以介紹一下嗎？
+[2025-01-23 11:55:43] Log: {'context': ['熱門商品與服務', '最新活動與優惠', '如何取得優惠券', 'JTCG的品牌故事', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.8, 'query_response_relevance': 0.9, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1536, 'out_token': 68}
+[2025-01-23 11:55:44] Log: Start 請再幫我生成一張apple的照片
+[2025-01-23 11:55:44] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:55:44] Retrying request to /chat/completions in 2.396000 seconds
+[2025-01-23 11:55:53] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:55:53] Log: Success: 請再幫我生成一張apple的照片
+[2025-01-23 11:55:53] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.1, 'query_response_relevance': 0.2, 'query_should_answer_or_not': 0.0}, 'input_token': 2561, 'cache_token': 2432, 'out_token': 69}
+[2025-01-23 11:55:54] Log: Start How to write javaScript function?
+[2025-01-23 11:55:55] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:55:55] Log: Success: How to write javaScript function?
+[2025-01-23 11:55:55] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1945, 'cache_token': 1792, 'out_token': 65}
+[2025-01-23 11:55:56] Log: Start 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-23 11:55:58] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:55:58] Log: Success: 那請問ipad pro 2030 是OLED螢幕嗎？
+[2025-01-23 11:55:58] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1782, 'cache_token': 1664, 'out_token': 71}
+[2025-01-23 11:55:59] Log: Start 請再給我一份包含h2的
+[2025-01-23 11:56:01] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:56:01] Log: Success: 請再給我一份包含h2的
+[2025-01-23 11:56:01] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1790, 'cache_token': 1664, 'out_token': 65}
+[2025-01-23 11:56:02] Log: Start Can you provide another example of a poem with a focus on love?
+[2025-01-23 11:56:08] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:56:08] Log: Success: Can you provide another example of a poem with a focus on love?
+[2025-01-23 11:56:08] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1785, 'cache_token': 1664, 'out_token': 71}
+[2025-01-23 11:56:09] Log: Start 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-23 11:56:11] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:56:11] Log: Success: 你可以再給我一些針對窗戶清潔的建議嗎？
+[2025-01-23 11:56:11] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1816, 'cache_token': 1664, 'out_token': 71}
+[2025-01-23 11:56:12] Log: Start JTCG Shop 還有哪些缺點？
+[2025-01-23 11:56:14] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:56:14] Log: Success: JTCG Shop 還有哪些缺點？
+[2025-01-23 11:56:14] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1752, 'cache_token': 1536, 'out_token': 65}
+[2025-01-23 11:56:15] Log: Start 
+[2025-01-23 11:56:16] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:56:16] Log: Success: 
+[2025-01-23 11:56:16] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1684, 'cache_token': 1536, 'out_token': 65}
+[2025-01-23 11:56:17] Log: Start weurjksdf098werjsdf?
+[2025-01-23 11:56:19] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:56:19] Log: Success: weurjksdf098werjsdf?
+[2025-01-23 11:56:19] Log: {'context': ['JTCG的品牌故事', '如何聯繫客服團隊', '熱門商品與服務', '最新活動與優惠', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.0, 'query_response_relevance': 0.0, 'query_should_answer_or_not': 0.0}, 'input_token': 1739, 'cache_token': 1536, 'out_token': 65}
+[2025-01-23 11:56:20] Log: Start 請幫我推薦一件商品
+[2025-01-23 11:56:22] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:56:22] Log: Success: 請幫我推薦一件商品
+[2025-01-23 11:56:22] Log: {'context': ['守護天使24HRS無憂成長內衣 _(青春期款)', '約會必備超彈一字領上衣', 'Happy Holiday秋冬拉絨上衣', '雙色印花斜肩長Tee', '24HRS x LIP INTIMATE CARE專寵自我私密保養禮盒'], 'score': {'query_faq_revelance': 0.7, 'query_response_relevance': 0.9, 'query_should_answer_or_not': 1.0}, 'input_token': 1763, 'cache_token': 1536, 'out_token': 111}
+[2025-01-23 11:56:23] Log: Start 請問這款藍色的短袖T恤還有貨嗎？
+[2025-01-23 11:56:23] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:56:23] Retrying request to /chat/completions in 0.184000 seconds
+[2025-01-23 11:56:25] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:56:25] Log: Success: 請問這款藍色的短袖T恤還有貨嗎？
+[2025-01-23 11:56:25] Log: {'context': ['查詢藍色短袖T恤的庫存狀況', '查看其他顏色選擇', '如何預訂缺貨商品', '熱門商品推薦', '如何查詢商品尺寸'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 0.8, 'query_should_answer_or_not': 1.0}, 'input_token': 1676, 'cache_token': 1536, 'out_token': 80}
+[2025-01-23 11:56:26] Log: Start 如果今天下單，什麼時候可以收到商品？
+[2025-01-23 11:56:26] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:56:26] Retrying request to /chat/completions in 0.556000 seconds
+[2025-01-23 11:56:29] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:56:29] Log: Success: 如果今天下單，什麼時候可以收到商品？
+[2025-01-23 11:56:29] Log: {'context': ['配送時間預估', '快速運送選項', '貨運方式查詢', '訂單追蹤', '配送狀態查詢'], 'score': {'query_faq_revelance': 0.6, 'query_response_relevance': 0.9, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1536, 'out_token': 65}
+[2025-01-23 11:56:30] Log: Start 我購買的商品不滿意，請問如何退貨？
+[2025-01-23 11:56:30] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:56:30] Retrying request to /chat/completions in 0.469000 seconds
+[2025-01-23 11:56:32] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:56:32] Log: Success: 我購買的商品不滿意，請問如何退貨？
+[2025-01-23 11:56:32] Log: {'context': ['JTCG的退換貨政策', '如何聯繫客服團隊', '退換貨流程的詳細步驟', '退貨時需要注意什麼', '退貨需要支付運費嗎'], 'score': {'query_faq_revelance': 0.8, 'query_response_relevance': 1.0, 'query_should_answer_or_not': 1.0}, 'input_token': 1673, 'cache_token': 1536, 'out_token': 76}
+[2025-01-23 11:56:33] Log: Start 可以用信用卡支付嗎？支持分期付款嗎？
+[2025-01-23 11:56:33] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:56:33] Retrying request to /chat/completions in 0.722000 seconds
+[2025-01-23 11:56:35] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:56:35] Log: Success: 可以用信用卡支付嗎？支持分期付款嗎？
+[2025-01-23 11:56:35] Log: {'context': ['JTCG的支付方式', '信用卡支付的安全性', '是否支持分期付款', '如何申請退貨', 'JTCG的隱私政策'], 'score': {'query_faq_revelance': 0.3, 'query_response_relevance': 0.9, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1536, 'out_token': 72}
+[2025-01-23 11:56:36] Log: Start 現在有什麼優惠活動嗎？可以介紹一下嗎？
+[2025-01-23 11:56:37] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+[2025-01-23 11:56:37] Retrying request to /chat/completions in 0.618000 seconds
+[2025-01-23 11:56:39] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-01-23 11:56:39] Log: Success: 現在有什麼優惠活動嗎？可以介紹一下嗎？
+[2025-01-23 11:56:39] Log: {'context': ['最新活動與優惠', '熱門商品與服務', 'JTCG的品牌故事', '如何聯繫客服團隊', 'JTCG的退換貨政策'], 'score': {'query_faq_revelance': 0.5, 'query_response_relevance': 0.9, 'query_should_answer_or_not': 1.0}, 'input_token': 1671, 'cache_token': 1536, 'out_token': 69}

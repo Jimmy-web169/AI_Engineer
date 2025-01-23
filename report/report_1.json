@@ -1,6 +1,6 @@
 [
     {
-        "faq": "請再幫我生成一張apple的照片",
+        "query": "請再幫我生成一張apple的照片",
         "quick_reply": [
             "JTCG的品牌故事",
             "如何聯繫客服團隊",
@@ -15,7 +15,7 @@
         }
     },
     {
-        "faq": "How to write javaScript function?",
+        "query": "How to write javaScript function?",
         "quick_reply": [
             "JTCG的品牌故事",
             "如何聯繫客服團隊",
@@ -30,22 +30,7 @@
         }
     },
     {
-        "faq": "那請問ipad pro 2030 是OLED螢幕嗎？",
-        "quick_reply": [
-            "如何查詢產品規格",
-            "iPad Pro 2030的螢幕技術",
-            "OLED螢幕的優勢",
-            "iPad Pro系列的歷史",
-            "如何選擇適合的平板電腦"
-        ],
-        "score": {
-            "query_faq_revelance": 0.0,
-            "query_response_relevance": 1.0,
-            "query_should_answer_or_not": 1.0
-        }
-    },
-    {
-        "faq": "請再給我一份包含h2的",
+        "query": "那請問ipad pro 2030 是OLED螢幕嗎？",
         "quick_reply": [
             "JTCG的品牌故事",
             "如何聯繫客服團隊",
@@ -60,7 +45,7 @@
         }
     },
     {
-        "faq": "Can you provide another example of a poem with a focus on love?",
+        "query": "請再給我一份包含h2的",
         "quick_reply": [
             "JTCG的品牌故事",
             "如何聯繫客服團隊",
@@ -75,7 +60,7 @@
         }
     },
     {
-        "faq": "你可以再給我一些針對窗戶清潔的建議嗎？",
+        "query": "Can you provide another example of a poem with a focus on love?",
         "quick_reply": [
             "JTCG的品牌故事",
             "如何聯繫客服團隊",
@@ -90,22 +75,7 @@
         }
     },
     {
-        "faq": "JTCG Shop 還有哪些缺點？",
-        "quick_reply": [
-            "如何聯繫客服團隊",
-            "JTCG的退換貨政策",
-            "熱門商品與服務",
-            "最新活動與優惠",
-            "JTCG的品牌故事"
-        ],
-        "score": {
-            "query_faq_revelance": 0.0,
-            "query_response_relevance": 0.0,
-            "query_should_answer_or_not": 0.0
-        }
-    },
-    {
-        "faq": "",
+        "query": "你可以再給我一些針對窗戶清潔的建議嗎？",
         "quick_reply": [
             "JTCG的品牌故事",
             "如何聯繫客服團隊",
@@ -120,7 +90,7 @@
         }
     },
     {
-        "faq": "weurjksdf098werjsdf?",
+        "query": "JTCG Shop 還有哪些缺點？",
         "quick_reply": [
             "JTCG的品牌故事",
             "如何聯繫客服團隊",
@@ -135,91 +105,121 @@
         }
     },
     {
-        "faq": "請幫我推薦一件商品",
+        "query": "",
+        "quick_reply": [
+            "JTCG的品牌故事",
+            "如何聯繫客服團隊",
+            "熱門商品與服務",
+            "最新活動與優惠",
+            "JTCG的退換貨政策"
+        ],
+        "score": {
+            "query_faq_revelance": 0.5,
+            "query_response_relevance": 0.5,
+            "query_should_answer_or_not": 0.5
+        }
+    },
+    {
+        "query": "weurjksdf098werjsdf?",
+        "quick_reply": [
+            "JTCG的品牌故事",
+            "如何聯繫客服團隊",
+            "熱門商品與服務",
+            "最新活動與優惠",
+            "JTCG的退換貨政策"
+        ],
+        "score": {
+            "query_faq_revelance": 0.0,
+            "query_response_relevance": 0.0,
+            "query_should_answer_or_not": 0.0
+        }
+    },
+    {
+        "query": "請幫我推薦一件商品",
         "quick_reply": [
             "守護天使24HRS無憂成長內衣 _(青春期款)",
             "約會必備超彈一字領上衣",
             "Happy Holiday秋冬拉絨上衣",
             "雙色印花斜肩長Tee",
-            "年末Party必備舒適顯瘦連身裙"
+            "冰涼吶喊24HRS無感冰絲內衣_(沁涼冰絲)"
         ],
         "score": {
-            "query_faq_revelance": 0.5,
-            "query_response_relevance": 1.0,
+            "query_faq_revelance": 0.8,
+            "query_response_relevance": 0.9,
             "query_should_answer_or_not": 1.0
         }
     },
     {
-        "faq": "請問這款藍色的短袖T恤還有貨嗎？",
+        "query": "請問這款藍色的短袖T恤還有貨嗎？",
         "quick_reply": [
             "如何查詢商品庫存",
-            "如何購買商品",
-            "商品缺貨時的處理方式",
-            "如何加入購物車",
-            "查看商品詳細資訊的方法"
+            "熱門商品與服務",
+            "JTCG的品牌故事",
+            "如何聯繫客服團隊",
+            "最新活動與優惠"
         ],
         "score": {
-            "query_faq_revelance": 0.0,
-            "query_response_relevance": 0.5,
+            "query_faq_revelance": 0.6,
+            "query_response_relevance": 0.8,
             "query_should_answer_or_not": 1.0
         }
     },
     {
-        "faq": "如果今天下單，什麼時候可以收到商品？",
+        "query": "如果今天下單，什麼時候可以收到商品？",
         "quick_reply": [
-            "配送時間如何計算？",
-            "有哪些配送方式可選？",
-            "如何查詢訂單狀態？",
-            "可以加急配送嗎？",
-            "商品配送是否有運費？"
+            "配送方式有哪些？",
+            "如何追蹤訂包裹狀態？",
+            "可以指定送達時間嗎？",
+            "商品可以自取嗎？",
+            "若商品延遲送達該怎麼辦？"
         ],
         "score": {
-            "query_faq_revelance": 0.5,
+            "query_faq_revelance": 0.8,
             "query_response_relevance": 1.0,
             "query_should_answer_or_not": 1.0
         }
     },
     {
-        "faq": "我購買的商品不滿意，請問如何退貨？",
+        "query": "我購買的商品不滿意，請問如何退貨？",
         "quick_reply": [
-            "退換貨需要哪些條件？",
-            "如何申請退換貨？",
-            "退換貨需要多久時間？",
-            "退換貨是否有運費？",
-            "可以退換哪些商品？"
+            "JTCG的退換貨政策",
+            "如何聯繫客服團隊",
+            "退貨的運費如何計算？",
+            "退貨需要多長時間處理？",
+            "可以更換商品嗎？"
         ],
         "score": {
-            "query_faq_revelance": 1.0,
+            "query_faq_revelance": 0.9,
             "query_response_relevance": 1.0,
             "query_should_answer_or_not": 1.0
         }
     },
     {
-        "faq": "可以用信用卡支付嗎？支持分期付款嗎？",
+        "query": "可以用信用卡支付嗎？支持分期付款嗎？",
         "quick_reply": [
-            "信用卡支付的流程是什麼？",
-            "支持的信用卡種類有哪些？",
-            "分期付款的最低金額是多少？",
-            "如何申請分期付款？",
-            "分期付款的手續費是多少？"
+            "支付方式有哪些選擇",
+            "如何使用信用卡支付",
+            "支持的分期付款選項",
+            "支付過程中遇到問題怎麼辦",
+            "付款成功後可以獲得確認通知嗎"
         ],
         "score": {
-            "query_faq_revelance": 0.5,
-            "query_response_relevance": 1.0,
+            "query_faq_revelance": 0.2,
+            "query_response_relevance": 0.9,
             "query_should_answer_or_not": 1.0
         }
     },
     {
-        "faq": "現在有什麼優惠活動嗎？可以介紹一下嗎？",
+        "query": "現在有什麼優惠活動嗎？可以介紹一下嗎？",
         "quick_reply": [
             "最新活動與優惠",
-            "如何取得優惠券",
             "熱門商品與服務",
-            "如何成為會員",
-            "JTCG的品牌故事"
+            "如何取得優惠券",
+            "JTCG的品牌故事",
+            "如何聯繫客服團隊"
         ],
         "score": {
-            "query_faq_revelance": 0.0,
+            "query_faq_revelance": 0.5,
             "query_response_relevance": 1.0,
             "query_should_answer_or_not": 1.0
         }

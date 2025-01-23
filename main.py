@@ -1,6 +1,6 @@
 from openai.types.chat.chat_completion import ChatCompletion
 import openai
-from system_prompt.system_prompt import system_prompt_quick_replies
+from system_prompt.system_prompt import system_prompt_quick_replies,system_prompt_english
 from chat_history.chat_history import chat_history_test_data
 import os 
 import logging
@@ -10,8 +10,7 @@ import time
 import json
 from dotenv import load_dotenv
 load_dotenv()
-OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
-
+OPENAI_API_KEY = os.getenv("OPEN_AI_API_KEY")
 # 設定 logging 的基礎設置
 logging.basicConfig(
     level=logging.INFO,
@@ -51,7 +50,7 @@ def generate_quick_replies(new_user_messages, system_prompt, chat_history=None):
     - dict: 回應訊息的Dict,包含context、score、input_token、cache_token和out_token
     """
     #從.env初始化OPEN_AI_KEY
-    openai.api_key = "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"
+    openai.api_key = OPENAI_API_KEY
     
     #設定System Prompt
     messages = [
@@ -112,11 +111,11 @@ def run_test(scope):
     for tag in range(1,scope+1):
         report = []
         for test_data in chat_history_test_data:
-            quick_reply,score = generate_quick_replies(test_data['faq'],system_prompt_quick_replies,test_data['chat_history'])
+            quick_reply,score = generate_quick_replies(test_data['faq'],system_prompt_english,test_data['chat_history'])
             #設置time.sleep避免同時間過多的請求
             time.sleep(1)
             result = {
-                "faq": test_data['faq'],
+                "query": test_data['faq'],
                 "quick_reply": quick_reply,
                 "score": score,
             }
